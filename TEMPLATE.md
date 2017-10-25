@@ -1,4 +1,5 @@
 ## Team Description/ Location
+
 Cobinhood is a place for dreamers and doers.
 Cobinhood has vision to become the largest and most successful cryptocurrency exchange in the world.
 
@@ -7,17 +8,23 @@ You’ll work on the bleeding edge of blockchain technology, including Bitcoin, 
 Location: Xinyi District, Taipei City
 
 ## Job Description
+
 Cobinhood is a place for dreamers and doers.
 Cobinhood has vision to become the largest and most successful cryptocurrency exchange in the world.
 
 You’ll work on the bleeding edge of blockchain technology, including Bitcoin, Ethereum and other cryptocurrencies, and play an important role in helping shape the future of how the world sees and uses money.
 
-## Skills & Requirements
-+ 
+### Responsibilities
 
+- XXXXXXXXXXXXX
 
-#### Plus:
-+ 
+### Requirements
+
+- XXXXXXXXXXXXX
+
+### Nice to Have:
+
+- XXXXXXXXXXXXX
 
 ## Salary Range
 
@@ -26,7 +33,7 @@ You’ll work on the bleeding edge of blockchain technology, including Bitcoin, 
 
 
 ## Contact
-cv/resume sent to brenda@cobinhood.com 
+cv/resume sent to brenda@cobinhood.com
 brenda@cobinhood.com
 
 ## Interview Process

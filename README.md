@@ -140,7 +140,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Overseeing and intervention for quality improvement of design and production.
 - To deepen and widen the service scope and to maximize customer satisfaction.
 
-** Requirements**:
+**Requirements**:
 
 - Technical background, with understanding of project management
 - Computational thinking
@@ -148,7 +148,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Complete practice of product and project management.
 - Full understanding of related processes of product development.
 
-** Nice to Have**:
+**Nice to Have**:
 
 - 3+ years of project management experience focus on consumer products.
 - Fluent in both English speaking and writing.
@@ -166,7 +166,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Enhance the site by identifying trends and opportunities
 - Supports the Marketing Department by accommodating requests for new or updated content and promotions on the Web site.
 
-** Requirements**:
+**Requirements**:
 
 - 1+ year experience in related subjects
 - Team player who will work with our team of software developers
@@ -175,7 +175,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Strong proficiency with Adobe Creative Suite, Visio, Axure, Basalmiq, and other UX related tools
 - Demonstrated ability to gather feedback from peers and stakeholders and incorporate to improve the final product
 
-** Nice to Have**:
+**Nice to Have**:
 
 - 3+ years as a UI Designer or similar role working with dynamic, high-traffic applications.
 - Smart and creative, with proven success in Web design and app design.
