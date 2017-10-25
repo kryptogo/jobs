@@ -115,7 +115,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Data mining and feature engineering.
 - Collaborate with engineering and product teams.
 
-** Requirements**:
+**Requirements**:
 
 - In-depth understanding of machine learning models and statistical analysis.
 - Familiar with machine learning library (e.g. Tensorflow)
@@ -123,7 +123,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Strong knowledge of Python or Scala
 - Competency in SQL or NoSQL
 
-** Nice to Have**:
+**Nice to Have**:
 
 - Advertising industry experience
 - Strong written and verbal communicator
