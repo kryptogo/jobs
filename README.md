@@ -130,6 +130,8 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Experience with advertising industry
 - Strong written and verbal communication skills
 
+---
+
 ### PRODUCT
 
 #### Project Manager
@@ -185,7 +187,9 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Experience following brand standards and UX patterns
 - A track-record of delivering the highest quality of work, even under tight time constraints
 
-### Quality Assurance
+---
+
+### QUALITY ASSURANCE
 
 #### User Behavior Testing
 
@@ -217,6 +221,8 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Knowledge on front end technologies and platform such as javascript, HTML, CSS
 - Fluent in English both written and oral
 
+---
+
 ### PEOPLE & RECRUITING
 
 #### Recruiter
@@ -230,6 +236,33 @@ Conceive practical and creative ways to recruit talents for COBINHOOD
 - Hands on experience with various selection processes
 - Excellent communication, interpersonal and organizational skills
 
+---
+
+#### BUSINESS DEVELOPMENT EXECUTIVE
+
+**Responsibilities**:
+
+- This role is a crucial one for COBINHOOD to meet any business with the ambition to expand or the necessity to diversify. It also means that you will be in high demand in nearly every job sector there is, including business-to-business, business-to-customer, and even non-profit organizations. You’ll continue to grow your network across the crypto landscape with COBINHOOD.
+
+** Requirements**:
+
+- 2+ years in engaging with clients or companies in the related industry
+- Experience managing projects working with cross-functional teams
+- Ability to act as clients’ full-service concierge of COBINHOOD and assist clients of
+COBINHOOD with their inquiries and requests
+- Ability to be proactive with minimal guidance in a rapidly evolving environment
+- Ability to maintain a deep and up-to-date knowledge of current and future product and service
+offerings
+- Excellent communication, analytical, organizational, and interpersonal skills
+- Passionate about maintain awareness and knowledge of industry-related developments
+
+** Nice to Have**:
+
+- Strong overall understanding of digital currencies/assets - Knowledge of international payments
+- Experience with bitcoin or other commodities/currencies - Familiar with Psychology
+
+---
+
 ### CUSTOMER SUPPORT
 
 #### Customer Success
@@ -240,6 +273,8 @@ To work closely with customers to ensure complete satisfaction is needed
 - Execute SOP to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty
 - Respond to general support, trading, and other questions or requests from clients
 - Passionate about helping people and want to change the world
+
+---
 
 ### MARKETING COMMUNICATIONS
 
