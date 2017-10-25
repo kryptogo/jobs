@@ -57,7 +57,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 - Contribute to the release and change of the management process with developers and operations.
 
 **Requirements**：
-
+- Bachelor degree in computer science/engineering or any related field or equivalent practical experience
 - Ability to use a wide variety of open source technologies and automation tools.
 - Experience with systems and IT operations.
 - Comfortable with frequent, incremental code testing and deployment.
@@ -80,7 +80,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 **Responsibility**：
 
 - The work of blockchain researcher will involve the dissemination, internally and externally, of the results of such activities through publications, patents, seminars, and representing COBINHOOD at professional meetings, in professional societies and universities.
-- Provide techinial planning and support for initial blockchain product development
+- Provide technical planning and support for initial blockchain product development
 
 **Requirements**：
 
@@ -88,7 +88,7 @@ Given breaches are the number one cause of death amongst digital currency compan
 - PhD in computer science related background with research record and commitment in one or more of the following areas:
 	- distributed systems and large-scale web applications
 	- performance modeling and analysis with focus on scalability
-	- cryptography, including asymmetric (pub/priv key), symmetric, hash functions, encryption/signatures.
+	- cryptography, including asymmetric (pub/private key), symmetric, hash functions, encryption/signatures.
 - Familiar with Blockchain technology or other distributed system.
 - Understanding of the P2P networking
 - Understanding of the cryptographic principles
@@ -117,16 +117,18 @@ Given breaches are the number one cause of death amongst digital currency compan
 
 **Requirements**:
 
+- Bachelor degree in computer science/engineering or any related field or equivalent practical experience
+- Understanding of in-depth machine learning models and statistical analysis.
+- Understanding of Data processing and building production models
 - In-depth understanding of machine learning models and statistical analysis.
 - Familiar with machine learning library (e.g. Tensorflow)
-- Data processing and building production models
 - Strong knowledge of Python or Scala
 - Competency in SQL or NoSQL
 
 **Nice to Have**:
 
-- Advertising industry experience
-- Strong written and verbal communicator
+- Experience with advertising industry
+- Strong written and verbal communication skills
 
 ### PRODUCT
 
@@ -136,28 +138,28 @@ Given breaches are the number one cause of death amongst digital currency compan
 
 - Coordinate cross-functional teams and development schedule.
 - Work closely with product manager to track schedule and ensure projects go smoothly.
-- Defining, monitoring and managing the project schedule
-- Overseeing and intervention for quality improvement of design and production.
+- Define, monitor, and manage the project schedule
+- Oversee quality improvement of design and production.
 - To deepen and widen the service scope and to maximize customer satisfaction.
 
 **Requirements**:
-
-- Technical background, with understanding of project management
-- Computational thinking
+- Bachelor degree in computer science/engineering or any related field or equivalent practical experience
+- Understanding of technical background with project management practices
+- Full understanding of Agile product development.
+- Competency of computational thinking
 - Diligent aptitude as well as innovative, agile, flexible and prudent.
 - Complete practice of product and project management.
-- Full understanding of related processes of product development.
 
 **Nice to Have**:
-
 - 3+ years of project management experience focus on consumer products.
+- Experience of Scrum Master or related Agile approach.
 - Fluent in both English speaking and writing.
 - Strong communication and time management skill.
-- Provide product vision and leadership in making cryptocurrency easier to use and trusted
+- Product vision and leadership in making cryptocurrency easier to use and trusted
 - Understanding of what makes great user experience
 - Ability to create detailed mockups and work with engineers
 
-#### UI Designer
+#### Product Designer
 
 **Responsibilities**:
 
@@ -201,9 +203,9 @@ Given breaches are the number one cause of death amongst digital currency compan
 
 - Bachelor degree in computer science/engineering or any related field or equivalent practical experience
 - 2+ years of experience as quality assurance or software tester in iOS, Android, or Web
-- Having an extensive understanding about software requirement and business process
+- Extensive understanding about software requirement and business process
 - Ability to analyze and decompose complex software or product and design test plan
-- Strong knowleadge in software development lift cycle
+- Strong knowledge in software development lift cycle
 - Understands all the testing concepts and different testing methods/techniques and applies them on their respective products.
 
 ** Nice to Have**:
@@ -292,7 +294,7 @@ This role will be in charge of digital media planning and operating to boost COB
 - Minimum of 2 years experiences of online marketing/digital advertising
 - Strong understanding of social media landscape, and how to grow and engage the audience on Facebook, Twitter, IG, YouTube, etc.
 - Familiar with Google Analytics, SEO
-- Familiar with any App Anlytics tool, ASO
+- Familiar with any App Analytics tool, ASO
 - Know how to package content for different social media channels, optimizing headlines, images, and posting schedule to drive performance
 - Proficiency in excel is a plus
 - AM experience is a plus
