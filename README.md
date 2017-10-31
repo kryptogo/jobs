@@ -206,6 +206,27 @@ Given breaches are the number one cause of death among digital currency companie
 - Knowledge on frontend technologies and platforms such as JavaScript, HTML, CSS
 - Fluent in English, both speaking and writing
 
+#### Quality Assurance Engineer
+
+**Responsibilities**:
+
+This role will need to care and ensure that we are only shipping quality code. Provides statistical information for quality improvement by identifying testing methods and samples for COBINHOOD.
+
+** Requirements**:
+
+- 2+ years of hands-on technical testing and automation testing experience
+- 2+ years experience with test design and execution
+- Strong background in software development
+- Experience writing and implementing a diverse suite of automated tests
+- The ingenuity to think of new ways to test and break the product
+- Understanding of Internet concepts, protocols, and technologies
+- Desire to continuously learn, problem-solve and acquire new skills with cutting-edge technology
+
+** Nice to Have**:
+
+- A strong practicing interest in the crypto space OR personal or professional experience investing and trading securities through online platforms
+- High comfort level and experience with Git
+
 ---
 
 ### PEOPLE & RECRUITING
