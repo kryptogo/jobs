@@ -326,6 +326,8 @@ This role will lead and develop COBINHOOD’s digital communications strategy, a
 - Proven experience in building strong internal and external relationships
 - Ability to combine creative problem solving, consumer insights, and strategic thinking in a fluid environment
 
+---
+
 ### MEDIA OPERATION
 
 #### Media Optimizer
