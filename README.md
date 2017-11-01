@@ -111,7 +111,7 @@ Given breaches are the number one cause of death among digital currency companie
 
 **Essential Requirements**:
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
-- In-depth nderstanding of in-depth machine learning models and statistical analysis
+- In-depth understanding of in-depth machine learning models and statistical analysis
 - Understanding of data processing and building production models
 - Familiar with machine learning library (e.g. Tensorflow)
 - Strong knowledge of Python or Scala
