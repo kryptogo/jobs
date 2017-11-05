@@ -1,18 +1,20 @@
 ## Team Description and Location
 
-COBINHOOD is a place for dreamers and doers.
-Our vision is  to become the largest and most successful cryptocurrency exchange in the world.
+COBINHOOD is the next-generation cryptocurrency service platform, our vision is to shape future economies by creating a crypto financial center for the blockchain era. 
 
-You’ll work on the bleeding edge of blockchain technology; including Bitcoin, Ethereum, and other cryptocurrencies; and play an important role in helping shape the future of how the world sees and uses money.
+COBINHOOD is a place for dreamers and doers. 
+We are looking for top-notch talents worldwide, you’ll work on the bleeding edge of blockchain technology, including Bitcoin, Ethereum, and other cryptocurrencies; playing as a leading force in taking today’s economies into the future. Join us to work on the edge and help create more opportunity and innovation in this new era. 
+
 
 **Location**: Xinyi District, Taipei City, Taiwan
 
 ## Job Description
 
-COBINHOOD is a place for dreamers and doers.
-Our vision is  to become the largest and most successful cryptocurrency exchange in the world.
+COBINHOOD is the next-generation cryptocurrency service platform, our vision is to shape future economies by creating a crypto financial center for the blockchain era. 
 
-You’ll work on the bleeding edge of blockchain technology; including Bitcoin, Ethereum, and other cryptocurrencies; and play an important role in helping shape the future of how the world sees and uses money.
+COBINHOOD is a place for dreamers and doers. 
+We are looking for top-notch talents worldwide, you’ll work on the bleeding edge of blockchain technology, including Bitcoin, Ethereum, and other cryptocurrencies; playing as a leading force in taking today’s economies into the future. Join us to work on the edge and help create more opportunity and innovation in this new era. 
+
 
 ### Responsibilities:
 
