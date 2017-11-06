@@ -44,6 +44,28 @@ Given breaches are the number one cause of death among digital currency companie
 - Experience with executing incident response in virtual and containerized environments
 - Experience conducting research on threat actors and their methodologies
 
+#### Software Engineer - Trading Engine
+
+**Responsibilities**：
+- Maximum trading performance(TPS) out of the system
+- Performance tuning on the existing databases and backend services.
+
+**Essential Requirements**：
+- 3+ years experiences in backend development
+- 2+ years experiences in developing production-level application
+- Experience in high throughput, low latency system design
+- Experience in Kafka/Cockroach distributed database system technologies
+- Familiar with designing RESTful APIs
+- Strong knowledge in network protocols (TCP/IP/HTTP/HTTPS)
+- Proficiency in Golang
+- Experience with databases and SQL/NoSQL
+- Passionate on new technologies
+
+**Desirable Qualifications**：
+- Experience in Kubernetes, Docker, DevOps and CI/CD procedures
+- Solid track record of Hardcore system programming (optimization, lock-free programming, profiling, multithreading etc)
+- Any practical experience in financial markets, particularly relating to High Frequency Trading systems
+
 #### Site Reliability Engineer
 
 **Responsibilities**：
