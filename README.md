@@ -66,6 +66,33 @@ Given breaches are the number one cause of death among digital currency companie
 - Solid track record of Hardcore system programming (optimization, lock-free programming, profiling, multithreading etc)
 - Any practical experience in financial markets, particularly relating to High Frequency Trading systems
 
+#### Software Engineer - Machine Learning
+
+**Responsibilities**：
+
+- Actively monitor and identify data disparities and suspicious activity early.
+- Detect money laundering activities and prevent the adverse effects they create, including disciplinary action, substantial fines, and damage to a company’s reputation.
+- File suspicious activity report by data from transaction history, KYC, CIP (customer identification program), PEP (politically exposed person), and AML (anti-money laundering).
+- Use AI-calculated credit rating to achieve customer segmentation and rank-ordering of AML alarms.
+
+**Essential Requirements**：
+
+- Takes initiative to identify & report problems and to drive resolution
+- Results oriented and has a high degree of accountability, commitment and responsibility
+- Extensive programming experience in Python
+- Experience with data-driven statistical or machine learning methods
+    - Strong preference for hands-on experience with TensorFlow or similar frameworks
+- Experience in querying complex schemas and relational databases
+
+**Desirable Qualifications**：
+
+- Master or PhD degree in computer science, data science or any related field or equivalent practical experience
+- Any practical experience in financial markets, particularly relating to High Frequency Trading systems
+- Any related experience in AML detection and prediction
+- Extensive programming experience, particularly in Go or R
+- Familiar with SQL and NoSQL databases
+- Familiar with Linux, AWS/GCP
+
 #### Site Reliability Engineer
 
 **Responsibilities**：
