@@ -93,6 +93,36 @@ Given breaches are the number one cause of death among digital currency companie
 - Familiar with SQL and NoSQL databases
 - Familiar with Linux, AWS/GCP
 
+#### Software Engineer - iOS
+
+**Responsibilities**：
+
+- Design and build applications for the iOS platform
+- Ensure the performance, quality, and responsiveness of applications
+- Collaborate with a team to define, design, and ship new features
+- Identify and correct bottlenecks and fix bugs
+- Help maintain code quality, organization, and automatization
+
+**Essential Requirements**：
+
+- Proficient with Objective-C or Swift, and Cocoa Touch
+- Experience with iOS frameworks such as Core Data, Core Animation, etc.
+- Familiarity with RESTful APIs to connect iOS applications to back-end services
+- Knowledge of other web technologies and UI/UX standards
+- Understanding of Apple’s design principles and interface guidelines
+- Proficient understanding of code versioning tools
+- Familiarity with continuous integration
+- A commitment to collaborative problem solving, sophisticated design, and the creation of quality products
+
+**Desirable Qualifications**：
+
+- Familiarity with dependency manager like CocoaPods and Carthage
+- Knowledge of low-level C-based libraries
+- Familiarity with cloud message APIs and push notifications
+- Experience with performance and memory tuning with tools, such as Instruments and Shark
+- Knack for benchmarking and optimization
+- Have a experience developing of top-ranking APP
+
 #### Site Reliability Engineer
 
 **Responsibilities**：
