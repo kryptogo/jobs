@@ -227,21 +227,6 @@ This role will need to care and ensure that we are only shipping quality code. P
 
 ---
 
-### PEOPLE & RECRUITING
-
-#### Recruiter
-
-Conceive practical and creative ways to recruit talents for COBINHOOD
-
-- 2+ years of recruitment experience; recruiting software engineering roles is a plus
-- Experience as a headhunter is a must
-- Strong ability to conduct different types of interviews
-- Solid ability to evaluate resumes of technical candidates
-- Hands-on experience with various selection processeses
-- Excellent communication, interpersonal, and organizational skills
-
----
-
 #### BUSINESS DEVELOPMENT EXECUTIVE
 
 **Responsibilities**:
@@ -295,21 +280,6 @@ Lead and execute a successful go-to market strategy for COBINHOOD
 - Familiarity with marketing material management and design
 - Understanding of SEO best practices and techniques is a plus
 - Additional qualifications or experience in basic design is a plus
-- Ability to work creatively and love getting involved with events
-
-#### Marketing Manager (Japan) マーケティングマネージャー
-
-This role will be responsible for all marketing activities in Japan such as product and brand marketing, communications, and execution of successful go-to market strategy for COBINHOOD in Japan.
-
-- Excellent Japanese communication and presentation skills
-- Advanced English language ability
-- 3+ years of experience in digital marketing in Japan
-- Strategize COBINHOOD's campaigns aligned with business goals
-- Create digital content for COBINHOOD (e.g. website, video, and graphics)
-- Manage end-to-end campaigns
-- Identify, launch, and drive high-priority marketing initiatives
-- Stay up-to-date with digital media developments and trends
-- Understanding of SEO best practices and techniques is a plus
 - Ability to work creatively and love getting involved with events
 
 #### Digital Engagement Manager
