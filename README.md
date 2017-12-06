@@ -50,7 +50,7 @@ Given breaches are the number one cause of death among digital currency companie
 - Maximum trading performance(TPS) out of the system
 - Performance tuning on the existing databases and backend services.
 
-**Essential Requirements**：
+**Requirements**：
 - 3+ years experiences in backend development
 - 2+ years experiences in developing production-level application
 - Experience in high throughput, low latency system design
@@ -61,22 +61,15 @@ Given breaches are the number one cause of death among digital currency companie
 - Experience with databases and SQL/NoSQL
 - Passionate on new technologies
 
-**Desirable Qualifications**：
-- Experience in Kubernetes, Docker, DevOps and CI/CD procedures
-- Solid track record of Hardcore system programming (optimization, lock-free programming, profiling, multithreading etc)
-- Any practical experience in financial markets, particularly relating to High Frequency Trading systems
-
 #### Software Engineer - Machine Learning
 
 **Responsibilities**：
-
 - Actively monitor and identify data disparities and suspicious activity early.
 - Detect money laundering activities and prevent the adverse effects they create, including disciplinary action, substantial fines, and damage to a company’s reputation.
 - File suspicious activity report by data from transaction history, KYC, CIP (customer identification program), PEP (politically exposed person), and AML (anti-money laundering).
 - Use AI-calculated credit rating to achieve customer segmentation and rank-ordering of AML alarms.
 
-**Essential Requirements**：
-
+**Requirements**：
 - Takes initiative to identify & report problems and to drive resolution
 - Results oriented and has a high degree of accountability, commitment and responsibility
 - Extensive programming experience in Python
@@ -84,27 +77,16 @@ Given breaches are the number one cause of death among digital currency companie
     - Strong preference for hands-on experience with TensorFlow or similar frameworks
 - Experience in querying complex schemas and relational databases
 
-**Desirable Qualifications**：
-
-- Master or PhD degree in computer science, data science or any related field or equivalent practical experience
-- Any practical experience in financial markets, particularly relating to High Frequency Trading systems
-- Any related experience in AML detection and prediction
-- Extensive programming experience, particularly in Go or R
-- Familiar with SQL and NoSQL databases
-- Familiar with Linux, AWS/GCP
-
 #### Software Engineer - iOS
 
 **Responsibilities**：
-
 - Design and build applications for the iOS platform
 - Ensure the performance, quality, and responsiveness of applications
 - Collaborate with a team to define, design, and ship new features
 - Identify and correct bottlenecks and fix bugs
 - Help maintain code quality, organization, and automatization
 
-**Essential Requirements**：
-
+**Requirements**：
 - Proficient with Objective-C or Swift, and Cocoa Touch
 - Experience with iOS frameworks such as Core Data, Core Animation, etc.
 - Familiarity with RESTful APIs to connect iOS applications to back-end services
@@ -113,15 +95,6 @@ Given breaches are the number one cause of death among digital currency companie
 - Proficient understanding of code versioning tools
 - Familiarity with continuous integration
 - A commitment to collaborative problem solving, sophisticated design, and the creation of quality products
-
-**Desirable Qualifications**：
-
-- Familiarity with dependency manager like CocoaPods and Carthage
-- Knowledge of low-level C-based libraries
-- Familiarity with cloud message APIs and push notifications
-- Experience with performance and memory tuning with tools, such as Instruments and Shark
-- Knack for benchmarking and optimization
-- Have a experience developing of top-ranking APP
 
 #### Site Reliability Engineer
 
@@ -134,7 +107,7 @@ Given breaches are the number one cause of death among digital currency companie
 - Evaluate release processes and tools for advanced improvement
 - Contribute to the release and change of the management process with developers and operations
 
-**Essential Requirements**：
+**Requirements**：
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - Ability to use a wide variety of open-source technologies and automation tools
 - Experience with systems and IT operations
@@ -145,20 +118,13 @@ Given breaches are the number one cause of death among digital currency companie
 - Ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.)
 - Solid experience in operating system automation, knowledge in Puppet, Chef, Salt, and Ansible
 
-**Desirable Qualifications**：
-- Experience as a system administrator on production systems.
-- Experience with AWS, Azure, Google Cloud Platform or OpenStack.
-- Experience with test/deploy automation and/or continuous integration.
-- Experience with log processing (Elasticsearch, Logstash, Splunk, ..., etc.)
-- Experience in monitoring systems concepts and Enterprise-class Monitoring Systems such as Nagios, Zenoss, and Zabbix
-
 #### Blockchain Researcher
 
 **Responsibilities**：
 - The work of the blockchain researcher will involve the dissemination, internally and externally, of the results of such activities through publications, patents, seminars, and representing COBINHOOD at professional meetings, in professional organizations and universities.
 - Provide technical planning and support for initial blockchain product development
 
-**Essential Requirements**：
+**Requirements**：
 - Passionate about cryptocurrency and blockchain
 - PhD in computer science-related background with research record and commitment in one or more of the following areas:
 	- distributed systems and large-scale web applications
@@ -169,18 +135,6 @@ Given breaches are the number one cause of death among digital currency companie
 - Understanding of cryptographic principles
 - Understanding of various distributed consensus methodologies (Raft, Mining, PoS, Paxos, etc)
 
-**Desirable Qualifications**：
-- Familiar with Bitcoin, Ethereum, IPFS, Cosmos, Polkadot, or other blockchain related technologies
-- Active demonstrable interest in blockchain, P2P distributed systems, DHTs, or cryptography
-- Practical experience in developing on Blockchain platforms such as Bitcoin or Ethereum
-    - Proven experience using Ethereum, bonus points for commercial experience
-    - Ability to develop well-written Ethereum smart contracts with good test coverage
-    - Ability to interpret and reason through an EVM stack trace output
-    - A good understanding of the workings of the Ethereum Virtual Machine
-    - Can write Ethereum smart contracts in Solidity, Serpent, HLL, or LLL
-    - Ability to write reusable/modular smart contracts and smart contract APIs
-- Preferably have knowledge in MPC, homomorphic encryption, zero knowledge proof, and differential privacy.
-
 #### Data Scientist
 
 **Responsibilities**:
@@ -188,17 +142,13 @@ Given breaches are the number one cause of death among digital currency companie
 - Data mining and feature engineering
 - Collaborate with engineering and product teams
 
-**Essential Requirements**:
+**Requirements**:
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - In-depth understanding of in-depth machine learning models and statistical analysis
 - Understanding of data processing and building production models
 - Familiar with machine learning library (e.g. Tensorflow)
 - Strong knowledge of Python or Scala
 - Competency in SQL or NoSQL
-
-**Desirable Qualifications**:
-- Experience in the advertising industry
-- Strong written and verbal communication skills
 
 ---
 
@@ -213,23 +163,13 @@ Given breaches are the number one cause of death among digital currency companie
 - Oversee quality improvement of design and production
 - To deepen and widen the service scope to maximize customer satisfaction
 
-**Essential Requirements**:
+**Requirements**:
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - Understanding of technical background with project management practices
 - Full understanding of Agile product development
 - Competency of computational thinking
 - Diligent aptitude as well as innovative, agile, flexible, and prudent
 - Complete practice of product and project management
-
-**Desirable Qualifications**:
-- 3+ years of project management experience focus on consumer products
-- Experience of Scrum Master or related Agile approach
-- Fluent in English, both speaking and writing
-- Strong communication and time management skills
-- Has leadership and strong vision for the product to make cryptocurrency become more trusted and easier to use
-- True understanding of what great user experience really is
-- Ability to create detailed mockups
-- Works well with a team of engineers
 
 #### Product Designer
 
@@ -239,20 +179,13 @@ Given breaches are the number one cause of death among digital currency companie
 - Enhance the site by identifying trends and opportunities
 - Supports marketing efforts by helping create content and promotional materials for the website
 
-**Essential Requirements**:
+**Requirements**:
 - 1+ year of relevant experience in the field
 - Team player who will work with our team of software developers
 - An eye for design, in general; and an understanding of key principles of information design
 - Experience creating website design deliverables and documentation that align to common grid systems and responsive design
 - Strong proficiency with Adobe Creative Suite, Visio, Axure, Basalmiq, and other UX related tools
 - Demonstrated ability to gather feedback from peers and stakeholders and incorporate to improve the final product
-
-**Desirable Qualifications**:
-- 3+ years as a UI Designer or similar role working with dynamic, high-traffic applications
-- Smart and creative, with proven success in web and app design
-- Excellent presentation skills with the ability to captivate a room and effortlessly demonstrate a design concept, research findings, strategy, and vision
-- Experience following brand standards and UX patterns
-- A track-record of delivering the highest quality of work, even under tight time constraints
 
 ---
 
@@ -269,21 +202,13 @@ Given breaches are the number one cause of death among digital currency companie
 - Identify, record, document (thoroughly), and track bugs
 - Perform thorough regression testing when bugs are resolved
 
-**Essential Requirements**
+**Requirements**
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - 2+ years of experience as quality assurance or software tester in iOS, Android, or web
 - Extensive understanding about software requirements and business processes
 - Ability to analyze and decompose complex software or product and then design the test plan
 - Strong knowledge in software development life cycle
 - Understands all the testing concepts and different testing methods/techniques and applies them on their respective products
-
-**Desirable Qualifications**:
-- Experience in Selenium, TestNG, Appium, etc.
-- Experience in testing APIs using tools like SoapUI, Postman, etc.
-- Experience in conducting performance tests using tools like load runner, jmeter, siege, apache benchmark, etc.
-- Knowledge on performance and security testing
-- Knowledge on frontend technologies and platforms such as JavaScript, HTML, CSS
-- Fluent in English, both speaking and writing
 
 #### Quality Assurance Engineer
 
@@ -292,7 +217,6 @@ Given breaches are the number one cause of death among digital currency companie
 This role will need to care and ensure that we are only shipping quality code. Provides statistical information for quality improvement by identifying testing methods and samples for COBINHOOD.
 
 **Requirements**:
-
 - 2+ years of hands-on technical testing and automation testing experience
 - 2+ years experience with test design and execution
 - Strong background in software development
@@ -300,11 +224,6 @@ This role will need to care and ensure that we are only shipping quality code. P
 - The ingenuity to think of new ways to test and break the product
 - Understanding of Internet concepts, protocols, and technologies
 - Desire to continuously learn, problem-solve and acquire new skills with cutting-edge technology
-
-**Nice to Have**:
-
-- A strong practicing interest in the crypto space OR personal or professional experience investing and trading securities through online platforms
-- High comfort level and experience with Git
 
 ---
 
@@ -328,7 +247,7 @@ Conceive practical and creative ways to recruit talents for COBINHOOD
 **Responsibilities**:
 - This role is crucial for COBINHOOD to meet any business with the ambition to expand or the need to diversify. It also means that you will be in high demand in nearly every job sector there is, including business-to-business, business-to-customer, and even non-profit organizations. You’ll continue to grow your network across the crypto landscape with COBINHOOD.
 
-**Essential Requirements**:
+**Requirements**:
 - 2+ years of experience in engaging with clients or companies in the related industry
 - Experience managing projects and working with cross-functional teams
 - Ability to act as the clients’ full-service concierge for COBINHOOD by assisting their requests and inquiries
