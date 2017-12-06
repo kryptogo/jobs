@@ -47,10 +47,12 @@ Given breaches are the number one cause of death among digital currency companie
 #### Software Engineer - Trading Engine
 
 **Responsibilities**：
+
 - Maximum trading performance(TPS) out of the system
 - Performance tuning on the existing databases and backend services.
 
 **Requirements**：
+
 - 3+ years experiences in backend development
 - 2+ years experiences in developing production-level application
 - Experience in high throughput, low latency system design
@@ -64,12 +66,14 @@ Given breaches are the number one cause of death among digital currency companie
 #### Software Engineer - Machine Learning
 
 **Responsibilities**：
+
 - Actively monitor and identify data disparities and suspicious activity early.
 - Detect money laundering activities and prevent the adverse effects they create, including disciplinary action, substantial fines, and damage to a company’s reputation.
 - File suspicious activity report by data from transaction history, KYC, CIP (customer identification program), PEP (politically exposed person), and AML (anti-money laundering).
 - Use AI-calculated credit rating to achieve customer segmentation and rank-ordering of AML alarms.
 
 **Requirements**：
+
 - Takes initiative to identify & report problems and to drive resolution
 - Results oriented and has a high degree of accountability, commitment and responsibility
 - Extensive programming experience in Python
@@ -80,6 +84,7 @@ Given breaches are the number one cause of death among digital currency companie
 #### Software Engineer - iOS
 
 **Responsibilities**：
+
 - Design and build applications for the iOS platform
 - Ensure the performance, quality, and responsiveness of applications
 - Collaborate with a team to define, design, and ship new features
@@ -87,6 +92,7 @@ Given breaches are the number one cause of death among digital currency companie
 - Help maintain code quality, organization, and automatization
 
 **Requirements**：
+
 - Proficient with Objective-C or Swift, and Cocoa Touch
 - Experience with iOS frameworks such as Core Data, Core Animation, etc.
 - Familiarity with RESTful APIs to connect iOS applications to back-end services
@@ -99,6 +105,7 @@ Given breaches are the number one cause of death among digital currency companie
 #### Site Reliability Engineer
 
 **Responsibilities**：
+
 - Solve configuration management, authentication, and scaling problems
 - Operate and improve monitoring clusters, including patching and fixing bugs
 - Collaborate with the others to deliver monitoring solutions
@@ -108,6 +115,7 @@ Given breaches are the number one cause of death among digital currency companie
 - Contribute to the release and change of the management process with developers and operations
 
 **Requirements**：
+
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - Ability to use a wide variety of open-source technologies and automation tools
 - Experience with systems and IT operations
@@ -121,10 +129,12 @@ Given breaches are the number one cause of death among digital currency companie
 #### Blockchain Researcher
 
 **Responsibilities**：
+
 - The work of the blockchain researcher will involve the dissemination, internally and externally, of the results of such activities through publications, patents, seminars, and representing COBINHOOD at professional meetings, in professional organizations and universities.
 - Provide technical planning and support for initial blockchain product development
 
 **Requirements**：
+
 - Passionate about cryptocurrency and blockchain
 - PhD in computer science-related background with research record and commitment in one or more of the following areas:
 	- distributed systems and large-scale web applications
@@ -138,11 +148,13 @@ Given breaches are the number one cause of death among digital currency companie
 #### Data Scientist
 
 **Responsibilities**:
+
 - Develop advanced machine learning and statistical models
 - Data mining and feature engineering
 - Collaborate with engineering and product teams
 
 **Requirements**:
+
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - In-depth understanding of in-depth machine learning models and statistical analysis
 - Understanding of data processing and building production models
@@ -157,6 +169,7 @@ Given breaches are the number one cause of death among digital currency companie
 #### Project Manager
 
 **Responsibilities**:
+
 - Coordinate cross-functional teams and development schedule
 - Work closely with product manager to track schedule and ensure projects run smoothly
 - Define, monitor, and manage the project schedule
@@ -164,6 +177,7 @@ Given breaches are the number one cause of death among digital currency companie
 - To deepen and widen the service scope to maximize customer satisfaction
 
 **Requirements**:
+
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - Understanding of technical background with project management practices
 - Full understanding of Agile product development
@@ -174,12 +188,14 @@ Given breaches are the number one cause of death among digital currency companie
 #### Product Designer
 
 **Responsibilities**:
+
 - Detail-oriented UI designer who's up to the task of solving challenging UI/UX problems
 - An artist, strategic-thinker, researcher, and doer to help envision and design smart home web and mobile apps
 - Enhance the site by identifying trends and opportunities
 - Supports marketing efforts by helping create content and promotional materials for the website
 
 **Requirements**:
+
 - 1+ year of relevant experience in the field
 - Team player who will work with our team of software developers
 - An eye for design, in general; and an understanding of key principles of information design
@@ -194,6 +210,7 @@ Given breaches are the number one cause of death among digital currency companie
 #### User-Behavior Testing
 
 **Responsibilities**
+
 - Create documentation on methodologies and practices related to automation solutions
 - Participate in building and improving our testing process, and integrate it to improve the overall engineering process
 - Maintains reusable test cases and custom test solutions to support testing needs
@@ -203,6 +220,7 @@ Given breaches are the number one cause of death among digital currency companie
 - Perform thorough regression testing when bugs are resolved
 
 **Requirements**
+
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - 2+ years of experience as quality assurance or software tester in iOS, Android, or web
 - Extensive understanding about software requirements and business processes
@@ -217,6 +235,7 @@ Given breaches are the number one cause of death among digital currency companie
 This role will need to care and ensure that we are only shipping quality code. Provides statistical information for quality improvement by identifying testing methods and samples for COBINHOOD.
 
 **Requirements**:
+
 - 2+ years of hands-on technical testing and automation testing experience
 - 2+ years experience with test design and execution
 - Strong background in software development
@@ -230,9 +249,11 @@ This role will need to care and ensure that we are only shipping quality code. P
 #### BUSINESS DEVELOPMENT EXECUTIVE
 
 **Responsibilities**:
+
 - This role is crucial for COBINHOOD to meet any business with the ambition to expand or the need to diversify. It also means that you will be in high demand in nearly every job sector there is, including business-to-business, business-to-customer, and even non-profit organizations. You’ll continue to grow your network across the crypto landscape with COBINHOOD.
 
 **Requirements**:
+
 - 2+ years of experience in engaging with clients or companies in the related industry
 - Experience managing projects and working with cross-functional teams
 - Ability to act as the clients’ full-service concierge for COBINHOOD by assisting their requests and inquiries
@@ -242,6 +263,7 @@ This role will need to care and ensure that we are only shipping quality code. P
 - Passionate about staying on top of industry-related developments with maintaned awareness and up-to-date knowledge
 
 **Desirable Qualifications**:
+
 - Strong overall understanding of digital currencies/assets
 - Knowledge of international payments
 - Experience with bitcoin or other commodities/currencies
