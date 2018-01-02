@@ -334,3 +334,27 @@ This role will be in charge of digital media planning and operating to boost COB
 - Have concept of AARRR/ LTV / Retention
 - Develop creative concepts independently is a plus
 - Experiences in analyzing competition with digital data
+
+---
+
+### LEGAL
+
+#### Legal Manager
+
+Responsibilities：
+
+- Provide legal support on all aspects of key strategy
+- Draft, review & revise Contract and agreement of COBINHOOD
+- Study global cryptocurrency regulation especially in cryptocurrency exchange and ICO
+- Advise frameworks of regulation for cryptocurrency exchange and ICO business in Taiwan
+- Manage corporate governance and review public materials in terms of legal perspective
+- Collaborate with and manage outside counsel on an as-needed basis
+
+Requirement：
+
+- A minimum of 2-3 years of work experience in legal firm
+- Strong knowledge of financial industry
+- Strong knowledge of cryptocurrency is a plus
+- Ability to proactively identify, analyze and resolve issues and provide timely, concise and business-focused legal advice in a fast-paced, dynamic environment
+- Proficiency in English
+- Fluent in Japanese is a plus
