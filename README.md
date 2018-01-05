@@ -320,20 +320,19 @@ This role will lead and develop COBINHOOD’s digital communications strategy, a
 
 ### MEDIA OPERATION
 
-#### Media Optimizer
+#### Growth Marketing
 
-This role will be in charge of digital media planning and operating to boost COBINHOOD's brand awareness all over the world
+*Responsibilities*：
 
-- Minimum of 2 years' experiences in online marketing/digital advertising
-- Strong understanding of social media landscape, and how to grow and engage the audience in Facebook, Twitter, Instagram, YouTube, etc.
+- This role will be in charge of digital media planning and operating to boost COBINHOOD’s brand awareness all over the world
+
+*Requirement*：
+
+- 2 years experiences of online marketing/digital advertising
+- Strong understanding of social media landscape, and how to grow and engage the audience on Facebook, Twitter, IG, YouTube, etc.
 - Familiar with Google Analytics, SEO
 - Familiar with any App Analytics tool, ASO
-- Know how to package content for different social media channels, optimizing headlines, images, and posting schedule to drive performance
-- Proficiency in excel is a plus
-- AM experience is a plus
-- Have concept of AARRR/ LTV / Retention
-- Develop creative concepts independently is a plus
-- Experiences in analyzing competition with digital data
+- Know how to package content for different social media channels, optimizing headlines, images, and posting schedule to drive performance.
 
 ---
 
@@ -341,7 +340,7 @@ This role will be in charge of digital media planning and operating to boost COB
 
 #### Legal Manager
 
-Responsibilities：
+*Responsibilities*：
 
 - Provide legal support on all aspects of key strategy
 - Draft, review & revise Contract and agreement of COBINHOOD
@@ -350,7 +349,7 @@ Responsibilities：
 - Manage corporate governance and review public materials in terms of legal perspective
 - Collaborate with and manage outside counsel on an as-needed basis
 
-Requirement：
+*Requirement*：
 
 - A minimum of 2-3 years of work experience in legal firm
 - Strong knowledge of financial industry
