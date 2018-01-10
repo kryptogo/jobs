@@ -231,6 +231,25 @@ Given breaches are the number one cause of death among digital currency companie
 - Ability to create detailed mockups
 - Works well with a team of engineers
 
+#### Associate Project Manager
+
+**Responsibilities**：
+
+- Contribute to the development of the overall product strategy, product roadmap and business plan with COBINHOOD
+- Global Cryptocurrency research
+- Analyze global KYC/AML policy
+- Identify needs through a combination of user research, collecting feedback from cross-functional teammates, diving into data, and competitive analysis
+- Collect and respond to user feedbacks on Google Play/App Store of COBINHOOD’s product
+
+**Requirement**：
+
+- BS or BA Degree/ Technical background preferred
+- Strong analytical skills
+- Excellent organizational and communication skills
+- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
+- Detail-oriented and able to work on multiple tasks autonomously
+- Passion & Knowledge of cryptocurrency and blockchain technologies is a must
+
 #### Product Designer
 
 **Responsibilities**:
