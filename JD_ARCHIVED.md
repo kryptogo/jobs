@@ -342,25 +342,68 @@ Conceive practical and creative ways to recruit talents for COBINHOOD
 
 ---
 
-#### BUSINESS DEVELOPMENT EXECUTIVE
+### BUSINESS DEVELOPMENT
+
+#### Business Development - ACCOUNT MANAGER
 
 **Responsibilities**:
-- This role is crucial for COBINHOOD to meet any business with the ambition to expand or the need to diversify. It also means that you will be in high demand in nearly every job sector there is, including business-to-business, business-to-customer, and even non-profit organizations. You’ll continue to grow your network across the crypto landscape with COBINHOOD.
+
+- This role is crucial for COBINHOOD to meet business growth with the ambition of rapid expansion. It would be client’s full-service concierge for COBINHOOD by managing client requests and inquiries.
+You will continue to grow your connections across
+the crypto-landscape with COBINHOOD.
 
 **Essential Requirements**:
-- 2+ years of experience in engaging with clients or companies in the related industry
-- Experience managing projects and working with cross-functional teams
-- Ability to act as the clients’ full-service concierge for COBINHOOD by assisting their requests and inquiries
-- Ability to be proactive with minimal guidance in a rapidly evolving environment
-- Ability to maintain a deep and up-to-date knowledge of current and future product and service offerings
-- Excellent communication, analytical, organizational, and interpersonal skills
-- Passionate about staying on top of industry-related developments with maintaned awareness and up-to-date knowledge
+
+- 2+ years experience in engaging with business clients
+- Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain.
+- Experience in coordinating marketing campaigns
 
 **Desirable Qualifications**:
+
 - Strong overall understanding of digital currencies/assets
-- Knowledge of international payments
-- Experience with bitcoin or other commodities/currencies
-- Familiar with Psychology
+- Pragmatic knowledge of international payments
+- Deep insight into commodities/currencies or bitcoin
+- Familiar with Psychology is a plus
+
+#### Business Development - ENGAGEMENT MANAGER
+
+**Responsibilities**:
+
+- This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion. It would be a gateway of business approach for COBINHOOD to explore and to seek for business cooperation.
+You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals. You’ll continue to cultivate your insights across various industries with COBINHOOD.
+
+**Essential Requirements**:
+- 2+ years experience in engaging with various business partners in different industries
+- Timely perceive and understand up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
+- To deliver excellent presentation, analysis, international communication and travels
+- To conduct quick survey of industry; analyze and design business model
+
+**Desirable Qualifications**:
+- Strong understanding of digital currencies/assets
+- Pragmatic knowledge of international payments
+- Deep insight into commodities/currencies or bitcoin
+- Familiar with Psychology is a plus
+- Outstanding experience of business consulting is a plus
+
+#### Business Development - PARTNERSHIP MANAGER
+
+**Responsibilities**:
+
+- This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy.
+You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations. You’ll ontinue to develop your views across various levels with COBINHOOD.
+
+**Essential Requirements**:
+- 3+ years experience in engaging with influencers in different fields
+- Timely perceive and understand up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
+- To deliver excellent interpersonal skills, international communication and travels
+- To conduct quick approach, collection, maintenance of critical connections
+
+**Desirable Qualifications**:
+- Strong understanding of digital currencies/assets
+- Pragmatic knowledge of international payments
+- Deep insight into commodities/currencies or bitcoin
+- Familiar with Psychology is a plus
+- Outstanding experience of public sector is a plus
 
 ---
 
