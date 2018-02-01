@@ -185,25 +185,6 @@ Given breaches are the number one cause of death among digital currency companie
 - Diligent aptitude as well as innovative, agile, flexible, and prudent
 - Complete practice of product and project management
 
-#### Associate Project Manager
-
-**Responsibilities**：
-
-- Contribute to the development of the overall product strategy, product roadmap and business plan with COBINHOOD
-- Global Cryptocurrency research
-- Analyze global KYC/AML policy
-- Identify needs through a combination of user research, collecting feedback from cross-functional teammates, diving into data, and competitive analysis
-- Collect and respond to user feedbacks on Google Play/App Store of COBINHOOD’s product
-
-**Requirement**：
-
-- BS or BA Degree/ Technical background preferred
-- Strong analytical skills
-- Excellent organizational and communication skills
-- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
-- Detail-oriented and able to work on multiple tasks autonomously
-- Passion & Knowledge of cryptocurrency and blockchain technologies is a must
-
 #### Product Designer
 
 **Responsibilities**:
@@ -271,14 +252,14 @@ This role will need to care and ensure that we are only shipping quality code. P
 
 **Responsibilities**:
 
-- This role is crucial for COBINHOOD to meet business growth with the ambition of rapid expansion. It would be client’s full-service concierge for COBINHOOD by managing client requests and inquiries.
+- This role is crucial for COBINHOOD to meet business growth with the ambition of rapid expansion. It would be client’s full-service concierge for COBINHOOD by managing client requests and inquiries. 
 You will continue to grow your connections across
 the crypto-landscape with COBINHOOD.
 
 **Essential Requirements**:
 
 - 2+ years experience in engaging with business clients
-- Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain.
+- Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain. 
 - Experience in coordinating marketing campaigns
 
 **Desirable Qualifications**:
@@ -288,12 +269,13 @@ the crypto-landscape with COBINHOOD.
 - Deep insight into commodities/currencies or bitcoin
 - Familiar with Psychology is a plus
 
+
 #### Business Development - ENGAGEMENT MANAGER
 
 **Responsibilities**:
 
 - This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion. It would be a gateway of business approach for COBINHOOD to explore and to seek for business cooperation.
-You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals. You’ll continue to cultivate your insights across various industries with COBINHOOD.
+You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals. You’ll continue to cultivate your insights across various industries with COBINHOOD. 
 
 **Essential Requirements**:
 - 2+ years experience in engaging with various business partners in different industries
@@ -302,7 +284,7 @@ You’ll obligate to be in high demand of engaging with clients, analyzing and d
 - To conduct quick survey of industry; analyze and design business model
 
 **Desirable Qualifications**:
-- Strong understanding of digital currencies/assets
+- Strong understanding of digital currencies/assets 
 - Pragmatic knowledge of international payments
 - Deep insight into commodities/currencies or bitcoin
 - Familiar with Psychology is a plus
@@ -312,7 +294,7 @@ You’ll obligate to be in high demand of engaging with clients, analyzing and d
 
 **Responsibilities**:
 
-- This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy.
+- This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. 
 You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations. You’ll ontinue to develop your views across various levels with COBINHOOD.
 
 **Essential Requirements**:
@@ -381,11 +363,11 @@ This role will lead and develop COBINHOOD’s digital communications strategy, a
 
 #### Growth Marketing
 
-*Responsibilities*：
+**Responsibilities**：
 
 - This role will be in charge of digital media planning and operating to boost COBINHOOD’s brand awareness all over the world
 
-*Requirement*：
+**Requirement**：
 
 - 2 years experiences of online marketing/digital advertising
 - Strong understanding of social media landscape, and how to grow and engage the audience on Facebook, Twitter, IG, YouTube, etc.
@@ -399,7 +381,7 @@ This role will lead and develop COBINHOOD’s digital communications strategy, a
 
 #### Legal Manager
 
-*Responsibilities*：
+**Responsibilities**：
 
 - Provide legal support on all aspects of key strategy
 - Draft, review & revise Contract and agreement of COBINHOOD
@@ -408,7 +390,7 @@ This role will lead and develop COBINHOOD’s digital communications strategy, a
 - Manage corporate governance and review public materials in terms of legal perspective
 - Collaborate with and manage outside counsel on an as-needed basis
 
-*Requirement*：
+**Requirement**：
 
 - A minimum of 2-3 years of work experience in legal firm
 - Strong knowledge of financial industry
@@ -416,3 +398,33 @@ This role will lead and develop COBINHOOD’s digital communications strategy, a
 - Ability to proactively identify, analyze and resolve issues and provide timely, concise and business-focused legal advice in a fast-paced, dynamic environment
 - Proficiency in English
 - Fluent in Japanese is a plus
+
+---
+
+### Admin
+
+#### Front Desk/ Receptionist
+
+As the Receptionist in COBINHOOD, you will need to be a masterful problem-solver and an organizational force given complex calendaring.
+We can’t all love our jobs… that’s a little bit unrealistic.
+But in COBINHOOD we all make an effort to be happy and enjoy parts of our working life!
+
+**Responsibilities**:
+- Answer, screen, and forward any incoming phone calls while providing basic information as needed
+- Maintain security by following procedures and controlling access
+- Organize space planning and large offsite events
+- Perform general clerical duties including answering phones, taking and distributing messages
+- Handle special projects as assigned
+
+**Essential Requirements**:
+- 1 - 2 years of experience in administrative support or as a receptionist
+- Experience prioritizing multiple projects
+- Must speak in fluent English 
+- Proficient in Microsoft Excel, PowerPoint, Word and Google applications
+- Strong organizational and communication skills, team orientated philosophy, and problem solving skills 
+
+**Desirable Qualifications**:
+- Hotel and concierge experience is welcome 
+- Willing to Go Above and Beyond
+- Someone who will keep his/her work area clean and organized
+- Friendly, calm and composed
