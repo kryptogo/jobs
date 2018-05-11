@@ -166,87 +166,43 @@ Given breaches are the number one cause of death among digital currency companie
 
 ### PRODUCT
 
-#### Project Manager
+#### Data Analyst
 
 **Responsibilities**:
 
-- Coordinate cross-functional teams and development schedule
-- Work closely with product manager to track schedule and ensure projects run smoothly
-- Define, monitor, and manage the project schedule
-- Oversee quality improvement of design and production
-- To deepen and widen the service scope to maximize customer satisfaction
+- You will plan and conduct large-scale experiments to test hypotheses and drive product development.
+- You will drive the creation of comprehensive datasets encompassing user profiles and behaviors, and incorporating a wide variety of signals and data types.
+- You will need to rapidly develop prototypes to prove out hypotheses with small dataset.
+- You will work closely with PM to sprint the verification with real data.
 
 **Requirements**:
 
-- Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
-- Understanding of technical background with project management practices
-- Full understanding of Agile product development
-- Competency of computational thinking
-- Diligent aptitude as well as innovative, agile, flexible, and prudent
-- Complete practice of product and project management
-
-#### Product Designer
-
-**Responsibilities**:
-
-- Detail-oriented UI designer who's up to the task of solving challenging UI/UX problems
-- An artist, strategic-thinker, researcher, and doer to help envision and design smart home web and mobile apps
-- Enhance the site by identifying trends and opportunities
-- Supports marketing efforts by helping create content and promotional materials for the website
-
-**Requirements**:
-
-- 1+ year of relevant experience in the field
-- Team player who will work with our team of software developers
-- An eye for design, in general; and an understanding of key principles of information design
-- Experience creating website design deliverables and documentation that align to common grid systems and responsive design
-- Strong proficiency with Adobe Creative Suite, Visio, Axure, Basalmiq, and other UX related tools
-- Demonstrated ability to gather feedback from peers and stakeholders and incorporate to improve the final product
-
----
-
-### QUALITY ASSURANCE
-
-#### User-Behavior Testing
-
-**Responsibilities**
-
-- Create documentation on methodologies and practices related to automation solutions
-- Participate in building and improving our testing process, and integrate it to improve the overall engineering process
-- Maintains reusable test cases and custom test solutions to support testing needs
-- Create detailed, comprehensive, and well-structured test plans and test cases
-- Estimate, prioritize, plan, and coordinate testing activities
-- Identify, record, document (thoroughly), and track bugs
-- Perform thorough regression testing when bugs are resolved
-
-**Requirements**
-
-- Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
-- 2+ years of experience as quality assurance or software tester in iOS, Android, or web
-- Extensive understanding about software requirements and business processes
-- Ability to analyze and decompose complex software or product and then design the test plan
-- Strong knowledge in software development life cycle
-- Understands all the testing concepts and different testing methods/techniques and applies them on their respective products
-
-#### Quality Assurance Engineer
-
-**Responsibilities**:
-
-This role will need to care and ensure that we are only shipping quality code. Provides statistical information for quality improvement by identifying testing methods and samples for COBINHOOD.
-
-**Requirements**:
-
-- 2+ years of hands-on technical testing and automation testing experience
-- 2+ years experience with test design and execution
-- Strong background in software development
-- Experience writing and implementing a diverse suite of automated tests
-- The ingenuity to think of new ways to test and break the product
-- Understanding of Internet concepts, protocols, and technologies
-- Desire to continuously learn, problem-solve and acquire new skills with cutting-edge technology
+- BS/MS background in Statistics, Mathematics, Economics, Information Management or Computer Science related discipline
+- Strong knowledge of statistics and experience in analyzing large datasets
+- Expertise in database technology with solid understanding to synthesize data with user insights
+- Hands-on skills with statistical software 
 
 ---
 
 ### BUSINESS DEVELOPMENT
+
+#### Business Development - TECHNICAL PRE-SALES
+
+**Responsibilities**:
+
+- This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. 
+You’ll obligate to be in high demand of engaging with clients, including initiating solution, analyzing and designing business model, and providing programming(smart contract)support /business. You’ll continue to cultivate your insights across various industries with COBINHOOD.
+
+**Essential Requirements**:
+- 1+ years experience in backend engineering position
+- 1+ years experience in engaging with business clients in Tech/Software industries
+- Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
+- BS/MS background in Computer Science or relevant discipline
+
+**Desirable Qualifications**:
+- Strong overall understanding of digital currencies/assets
+- Pragmatic knowledge of international payments
+- Deep insight into commodities/currencies or bitcoin
 
 #### Business Development - ACCOUNT MANAGER
 
@@ -290,42 +246,6 @@ You’ll obligate to be in high demand of engaging with clients, analyzing and d
 - Familiar with Psychology is a plus
 - Outstanding experience of business consulting is a plus
 
-#### Business Development - PARTNERSHIP MANAGER
-
-**Responsibilities**:
-
-- This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. 
-You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations. You’ll ontinue to develop your views across various levels with COBINHOOD.
-
-**Essential Requirements**:
-- 3+ years experience in engaging with influencers in different fields
-- Timely perceive and understand up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
-- To deliver excellent interpersonal skills, international communication and travels
-- To conduct quick approach, collection, maintenance of critical connections
-
-**Desirable Qualifications**:
-- Strong understanding of digital currencies/assets
-- Pragmatic knowledge of international payments
-- Deep insight into commodities/currencies or bitcoin
-- Familiar with Psychology is a plus
-- Outstanding experience of public sector is a plus
-
----
-
-### CUSTOMER SUPPORT
-
-#### Customer Success
-
-To work closely with customers to ensure complete satisfaction is needed
-
-- Effectively respond to clients' requests through various customer touchpoints and channels
-- Provide relevant support to clients by communicating company values and strengths
-- Provide proactive, friendly, and timely support
-- Enhance user experience, satisfaction, and loyalty
-- Execute SOP to answer users’ inquiries
-- Respond to general support, trading, and other questions or requests from clients
-- Passionate about helping people and want to change the world
-
 ---
 
 ### MARKETING COMMUNICATIONS
@@ -345,35 +265,19 @@ Lead and execute a successful go-to market strategy for COBINHOOD
 - Additional qualifications or experience in basic design is a plus
 - Ability to work creatively and love getting involved with events
 
-#### Digital Engagement Manager
-
-This role will lead and develop COBINHOOD’s digital communications strategy, and ensure that we make effective use of a range of digital platforms/channels to support the company's aims, improve COBINHOOD’s digital presence, and to make sure our digital channels consistently spark interest and reach a range of audiences.
-
-- 3+ years of experience in digital marketing, with strong preference to search marketing and other forms of performance marketing efforts
-- Be knowledgeable in all matters regarding digital communication; from marketing management to latest technical developments
-- Familiar with content management systems and social media platforms
-- Experience in promoting positive online engagement and developing digital assets
-- Excellent communication skills, both verbal and written, with innovative ideas to inspire audiences' loyalty
-- Proven experience in building strong internal and external relationships
-- Ability to combine creative problem solving, consumer insights, and strategic thinking in a fluid environment
-
----
-
-### MEDIA OPERATION
-
-#### Growth Marketing
+#### Public Relationship Manager
 
 **Responsibilities**：
 
-- This role will be in charge of digital media planning and operating to boost COBINHOOD’s brand awareness all over the world
+To ensure and enhance public communications of COBINHOOD align with industry/regulatory standards and display COBINHOOD in a positive light.
 
 **Requirement**：
 
-- 2 years experiences of online marketing/digital advertising
-- Strong understanding of social media landscape, and how to grow and engage the audience on Facebook, Twitter, IG, YouTube, etc.
-- Familiar with Google Analytics, SEO
-- Familiar with any App Analytics tool, ASO
-- Know how to package content for different social media channels, optimizing headlines, images, and posting schedule to drive performance.
+- Experiences working in public relations including managing local, regional, national and publicity efforts. 
+- A proven track record of managing successful PR campaigns
+- Strong knowledge and connections in various types of media
+- Excellent verbal and written communication in English and Mandarin
+- Foreigner welcome
 
 ---
 
