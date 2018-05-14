@@ -195,7 +195,7 @@ Develop high quality website for COBINHOOD
 
 ### BUSINESS DEVELOPMENT
 
-#### Business Development - TECHNICAL PRE-SALES
+#### Business Development - Technical Pre-Sales
 
 **Responsibilities**:
 
@@ -213,7 +213,7 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 - Pragmatic knowledge of international payments
 - Deep insight into commodities/currencies or bitcoin
 
-#### Business Development - ACCOUNT MANAGER
+#### Business Development - Account Manager
 
 **Responsibilities**:
 
@@ -235,7 +235,7 @@ the crypto-landscape with COBINHOOD.
 - Familiar with Psychology is a plus
 
 
-#### Business Development - ENGAGEMENT MANAGER
+#### Business Development - Engagement Manager
 
 **Responsibilities**:
 
