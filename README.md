@@ -11,20 +11,7 @@ Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.co
 
 ### ENGINEERING
 
-#### Software Engineer - Frontend
-
-Develop high quality website for COBINHOOD
-
-- 2+ years of front end working experience
-- Solid knowledge on HTML5, CSS3, JavaScript (ES6+), and webpack
-- Familiar with React and Redux
-- Familiar with RESTful APIs and WebSocket
-- Experience in SVG, canvas graphics, and D3.js (optional)
-- Experience in reactive programming, RxJS (optional)
-- Experience in Web UI/UX design (optional)
-- Passionate with new technologies
-
-#### Software Engineer - Backend
+#### Software Engineer - Backend (Welcome Fresh Grad / Senior Level)
 
 Develop high-quality, high-concurrency, high-availability, high-scalability API backend with distributed micro-services
 
@@ -38,6 +25,25 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 - Familiar with distributed system
 - Experience with Kubernetes, Docker, DevOps, and CI/CD procedures
 - Passionate with new technologies
+
+#### Blockchain Researcher (Welcome MS-Ph.D candidate or Experienced researcher)
+
+**Responsibilities**：
+
+- The work of the blockchain researcher will involve the dissemination, internally and externally, of the results of such activities through publications, patents, seminars, and representing COBINHOOD at professional meetings, in professional organizations and universities.
+- Provide technical planning and support for initial blockchain product development
+
+**Requirements**：
+
+- Passionate about cryptocurrency and blockchain
+- PhD in computer science-related background with research record and commitment in one or more of the following areas:
+	- distributed systems and large-scale web applications
+	- performance modeling and analysis with focus on scalability
+	- cryptography, including asymmetric (pub/private key), symmetric, hash functions, encryption/signatures
+- Familiar with Blockchain technology or other distributed system
+- Understanding of P2P networking
+- Understanding of cryptographic principles
+- Understanding of various distributed consensus methodologies (Raft, Mining, PoS, Paxos, etc)
 
 #### Software Engineer - Security
 
@@ -135,24 +141,18 @@ Given breaches are the number one cause of death among digital currency companie
 - Ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.)
 - Solid experience in operating system automation, knowledge in Puppet, Chef, Salt, and Ansible
 
-#### Blockchain Researcher
+#### Software Engineer - Frontend
 
-**Responsibilities**：
+Develop high quality website for COBINHOOD
 
-- The work of the blockchain researcher will involve the dissemination, internally and externally, of the results of such activities through publications, patents, seminars, and representing COBINHOOD at professional meetings, in professional organizations and universities.
-- Provide technical planning and support for initial blockchain product development
-
-**Requirements**：
-
-- Passionate about cryptocurrency and blockchain
-- PhD in computer science-related background with research record and commitment in one or more of the following areas:
-	- distributed systems and large-scale web applications
-	- performance modeling and analysis with focus on scalability
-	- cryptography, including asymmetric (pub/private key), symmetric, hash functions, encryption/signatures
-- Familiar with Blockchain technology or other distributed system
-- Understanding of P2P networking
-- Understanding of cryptographic principles
-- Understanding of various distributed consensus methodologies (Raft, Mining, PoS, Paxos, etc)
+- 2+ years of front end working experience
+- Solid knowledge on HTML5, CSS3, JavaScript (ES6+), and webpack
+- Familiar with React and Redux
+- Familiar with RESTful APIs and WebSocket
+- Experience in SVG, canvas graphics, and D3.js (optional)
+- Experience in reactive programming, RxJS (optional)
+- Experience in Web UI/UX design (optional)
+- Passionate with new technologies
 
 #### Data Scientist
 
