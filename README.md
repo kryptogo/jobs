@@ -191,6 +191,33 @@ Develop high quality website for COBINHOOD
 - Expertise in database technology with solid understanding to synthesize data with user insights
 - Hands-on skills with statistical software 
 
+#### Product Intern (Senior Students Welcomed)
+
+We are looking for a Product Tester to assess software quality through manual and automated testing. As a Product tester, you will be responsible for finding and reporting product defects, as well as to develop new test cases. 
+To succeed in this role, you possess a keen eye for detail and excellent communication skills. 
+Ultimately, you will work as a part of the team to ensure that we ship quality code and our products are awesome. 
+
+**Responsibilities**:
+
+- Execute test cases and analyse test results 
+- Preparing test reports for tracking and analysis 
+- Evaluate test cases and explore new use cases 
+- Report bugs and improvements to development team 
+- Troubleshoot issues 
+- Conduct new feature and post-release testing 
+- Work with cross-functional teams to ensure quality throughout the software development life cycle
+
+**Requirements**:
+
+- Senior year university/graduate student; CS/information major, economy major, business major is a plus. 
+- Strong communication skills in Mandarin and English. 
+- Logical, detail-oriented, and sensitive to numbers. 
+- Excellent skills in analyzing. 
+- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms 
+- Ability to troubleshoot and document errors 
+- Analytical and curios mindset with a problem-solving aptitude 
+- Experience in QA, Agile framework or project management a huge plus
+
 ---
 
 ### BUSINESS DEVELOPMENT
