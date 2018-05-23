@@ -175,6 +175,27 @@ Develop high quality website for COBINHOOD
 
 ### PRODUCT
 
+#### User-Behavior Testing
+
+**Responsibilities**:
+
+- Create documentation on methodologies and practices related to automation solutions
+- Participate in building and improving our testing process, and integrate it to improve the overall engineering process
+- Maintains reusable test cases and custom test solutions to support testing needs
+- Create detailed, comprehensive, and well-structured test plans and test cases
+- Estimate, prioritize, plan, and coordinate testing activities
+- Identify, record, document (thoroughly), and track bugs
+- Perform thorough regression testing when bugs are resolved
+
+**Requirements**:
+
+- Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
+- 2+ years of experience as quality assurance or software tester in iOS, Android, or web
+- Extensive understanding about software requirements and business processes
+- Ability to analyze and decompose complex software or product and then design the test plan
+- Strong knowledge in software development life cycle
+- Understands all the testing concepts and different testing methods/techniques and applies them on their respective products
+
 #### Data Analyst
 
 **Responsibilities**:
