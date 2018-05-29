@@ -212,6 +212,19 @@ Develop high quality website for COBINHOOD
 - Expertise in database technology with solid understanding to synthesize data with user insights
 - Hands-on skills with statistical software 
 
+#### UX Designer 
+
+**Design awesome UX for Cobinhood Website and Apps**
+
+**Requirements**:
+
+- Familiar with Flow Chart / Wireframe / Prototyping / Usability Test / User Research / Interaction Design / User Interview. 
+- Familiar with PS / AI / Sketch / InVision / Zeplin. 
+- Familiar HTML5, CSS3, Sass, and popular web UI frameworks. 
+- Familiar with micro animation design with After Effects / Principle. 
+- Passionate about all things UI and other areas of design and innovation.
+- Please attach your online portfolio or any relevant personal design series for reference.
+
 #### Product Intern (Senior Students Welcomed)
 
 We are looking for a Product Tester to assess software quality through manual and automated testing. As a Product tester, you will be responsible for finding and reporting product defects, as well as to develop new test cases. 
@@ -261,53 +274,11 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 - Pragmatic knowledge of international payments
 - Deep insight into commodities/currencies or bitcoin
 
-#### Business Development - Account Manager
-
-**Responsibilities**:
-
-- This role is crucial for COBINHOOD to meet business growth with the ambition of rapid expansion. It would be client’s full-service concierge for COBINHOOD by managing client requests and inquiries. 
-You will continue to grow your connections across
-the crypto-landscape with COBINHOOD.
-
-**Essential Requirements**:
-
-- 2+ years experience in engaging with business clients
-- Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain. 
-- Experience in coordinating marketing campaigns
-
-**Desirable Qualifications**:
-
-- Strong overall understanding of digital currencies/assets
-- Pragmatic knowledge of international payments
-- Deep insight into commodities/currencies or bitcoin
-- Familiar with Psychology is a plus
-
-
-#### Business Development - Engagement Manager
-
-**Responsibilities**:
-
-- This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion. It would be a gateway of business approach for COBINHOOD to explore and to seek for business cooperation.
-You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals. You’ll continue to cultivate your insights across various industries with COBINHOOD. 
-
-**Essential Requirements**:
-- 2+ years experience in engaging with various business partners in different industries
-- Timely perceive and understand up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
-- To deliver excellent presentation, analysis, international communication and travels
-- To conduct quick survey of industry; analyze and design business model
-
-**Desirable Qualifications**:
-- Strong understanding of digital currencies/assets 
-- Pragmatic knowledge of international payments
-- Deep insight into commodities/currencies or bitcoin
-- Familiar with Psychology is a plus
-- Outstanding experience of business consulting is a plus
-
 ---
 
 ### MARKETING COMMUNICATIONS
 
-#### Marketing Manager
+#### Marketing Campaign Manager
 
 Lead and execute a successful go-to market strategy for COBINHOOD
 
@@ -359,36 +330,6 @@ To ensure and enhance public communications of COBINHOOD align with industry/reg
 - Ability to proactively identify, analyze and resolve issues and provide timely, concise and business-focused legal advice in a fast-paced, dynamic environment
 - Proficiency in English
 - Fluent in Japanese is a plus
-
----
-
-### Admin
-
-#### Front Desk/ Receptionist
-
-As the Receptionist in COBINHOOD, you will need to be a masterful problem-solver and an organizational force given complex calendaring.
-We can’t all love our jobs… that’s a little bit unrealistic.
-But in COBINHOOD we all make an effort to be happy and enjoy parts of our working life!
-
-**Responsibilities**:
-- Answer, screen, and forward any incoming phone calls while providing basic information as needed
-- Maintain security by following procedures and controlling access
-- Organize space planning and large offsite events
-- Perform general clerical duties including answering phones, taking and distributing messages
-- Handle special projects as assigned
-
-**Essential Requirements**:
-- 1 - 2 years of experience in administrative support or as a receptionist
-- Experience prioritizing multiple projects
-- Must speak in fluent English 
-- Proficient in Microsoft Excel, PowerPoint, Word and Google applications
-- Strong organizational and communication skills, team orientated philosophy, and problem solving skills 
-
-**Desirable Qualifications**:
-- Hotel and concierge experience is welcome 
-- Willing to Go Above and Beyond
-- Someone who will keep his/her work area clean and organized
-- Friendly, calm and composed
 
 ---
 
