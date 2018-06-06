@@ -11,7 +11,9 @@ Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.co
 
 ### ENGINEERING
 
-#### Software Engineer - Backend (Welcome Fresh Grad / Senior Level)
+#### Software Engineer - Backend 
+
+**Strong Fresh Graduate Welcomed**
 
 Develop high-quality, high-concurrency, high-availability, high-scalability API backend with distributed micro-services
 
@@ -26,7 +28,9 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 - Experience with Kubernetes, Docker, DevOps, and CI/CD procedures
 - Passionate with new technologies
 
-#### Blockchain Researcher (Welcome MS-Ph.D candidate and Experienced researcher)
+#### Blockchain Researcher
+
+**MS-Ph.D candidate and Experienced researcher Welcomed**
 
 **Responsibilities**：
 
@@ -226,6 +230,8 @@ This role will require the candidate to ensure that we are only shipping quality
 - Experience in QA, Agile framework or project management a huge plus
 
 #### Quality Intern
+
+**2-3 day/week, at least 6-month employment, senior student welcomed**
 
 You will work as a part of the team to ensure that our products/functions are awesome. You can gain quality testing skill with our world-class RD team. 
 To succeed in this role, you possess a keen eye for detail and excellent communication skills.
