@@ -26,7 +26,7 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 - Experience with Kubernetes, Docker, DevOps, and CI/CD procedures
 - Passionate with new technologies
 
-#### Blockchain Researcher (Welcome MS-Ph.D candidate or Experienced researcher)
+#### Blockchain Researcher (Welcome MS-Ph.D candidate and Experienced researcher)
 
 **Responsibilities**：
 
@@ -82,10 +82,10 @@ Given breaches are the number one cause of death among digital currency companie
 
 **Responsibilities**：
 
-- Actively monitor and identify data disparities and suspicious activity early.
-- Detect money laundering activities and prevent the adverse effects they create, including disciplinary action, substantial fines, and damage to a company’s reputation.
-- File suspicious activity report by data from transaction history, KYC, CIP (customer identification program), PEP (politically exposed person), and AML (anti-money laundering).
-- Use AI-calculated credit rating to achieve customer segmentation and rank-ordering of AML alarms.
+- Actively monitor and identify data disparities and suspicious activity early
+- Detect money laundering activities and prevent the adverse effects they create, including disciplinary action, substantial fines, and damage to a company’s reputation
+- File suspicious activity report by data from transaction history, KYC, CIP (customer identification program), PEP (politically exposed person), and AML (anti-money laundering)
+- Use AI-calculated credit rating to achieve customer segmentation and rank-ordering of AML alarms
 
 **Requirements**：
 
@@ -95,6 +95,19 @@ Given breaches are the number one cause of death among digital currency companie
 - Experience with data-driven statistical or machine learning methods
     - Strong preference for hands-on experience with TensorFlow or similar frameworks
 - Experience in querying complex schemas and relational databases
+
+#### Software Engineer - Frontend
+
+Develop high quality website for COBINHOOD
+
+- 2+ years of front end working experience
+- Solid knowledge on HTML5, CSS3, JavaScript (ES6+), and webpack
+- Familiar with React and Redux
+- Familiar with RESTful APIs and WebSocket
+- Experience in SVG, canvas graphics, and D3.js (optional)
+- Experience in reactive programming, RxJS (optional)
+- Experience in Web UI/UX design (optional)
+- Passionate with new technologies
 
 #### Software Engineer - iOS
 
@@ -109,7 +122,7 @@ Given breaches are the number one cause of death among digital currency companie
 **Requirements**：
 
 - Proficient with Objective-C or Swift, and Cocoa Touch
-- Experience with iOS frameworks such as Core Data, Core Animation, etc.
+- Experience with iOS frameworks such as Core Data, Core Animation, etc
 - Familiarity with RESTful APIs to connect iOS applications to back-end services
 - Knowledge of other web technologies and UI/UX standards
 - Understanding of Apple’s design principles and interface guidelines
@@ -134,25 +147,12 @@ Given breaches are the number one cause of death among digital currency companie
 - Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
 - Ability to use a wide variety of open-source technologies and automation tools
 - Experience with systems and IT operations
-- Comfortable with frequent, incremental code testing and deployment.
+- Comfortable with frequent, incremental code testing and deployment
 - Comfortable with collaboration, open communication, and reaching across functional borders
 - Unix-like (Linux or FreeBSD) system administration and programming experience, able to automate tasks with (shell) scripts
 - Accomplish assigned projects under minimal supervision
 - Ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.)
 - Solid experience in operating system automation, knowledge in Puppet, Chef, Salt, and Ansible
-
-#### Software Engineer - Frontend
-
-Develop high quality website for COBINHOOD
-
-- 2+ years of front end working experience
-- Solid knowledge on HTML5, CSS3, JavaScript (ES6+), and webpack
-- Familiar with React and Redux
-- Familiar with RESTful APIs and WebSocket
-- Experience in SVG, canvas graphics, and D3.js (optional)
-- Experience in reactive programming, RxJS (optional)
-- Experience in Web UI/UX design (optional)
-- Passionate with new technologies
 
 #### Data Scientist
 
@@ -173,84 +173,114 @@ Develop high quality website for COBINHOOD
 
 ---
 
-### PRODUCT
+### Quality Team
 
-#### User-Behavior Testing
+Quality Team is looking for Product Testers to assess software quality through manual and automated testing. As a Product tester, you will be responsible for finding and reporting product defects, as well as to develop new test cases.
+To succeed in this role, you possess a keen eye for detail and excellent communication skills.
+Ultimately, you will work as a part of the team to ensure that we ship quality code and our products are awesome.
 
-**Responsibilities**:
-
-- Create documentation on methodologies and practices related to automation solutions
-- Participate in building and improving our testing process, and integrate it to improve the overall engineering process
-- Maintains reusable test cases and custom test solutions to support testing needs
-- Create detailed, comprehensive, and well-structured test plans and test cases
-- Estimate, prioritize, plan, and coordinate testing activities
-- Identify, record, document (thoroughly), and track bugs
-- Perform thorough regression testing when bugs are resolved
-
-**Requirements**:
-
-- Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
-- 2+ years of experience as quality assurance or software tester in iOS, Android, or web
-- Extensive understanding about software requirements and business processes
-- Ability to analyze and decompose complex software or product and then design the test plan
-- Strong knowledge in software development life cycle
-- Understands all the testing concepts and different testing methods/techniques and applies them on their respective products
-
-#### Data Analyst
+#### Software Development Engineer in Test
 
 **Responsibilities**:
 
-- You will plan and conduct large-scale experiments to test hypotheses and drive product development.
-- You will drive the creation of comprehensive datasets encompassing user profiles and behaviors, and incorporating a wide variety of signals and data types.
-- You will need to rapidly develop prototypes to prove out hypotheses with small dataset.
-- You will work closely with PM to sprint the verification with real data.
+This role will require the candidate to ensure that we are only shipping quality code and providing statistical information for quality improvement through testing methodologies and sampling for the team.
+
+- Responsible for Web/App product testing, including manual and automation testing 
+- Building automation test flow and framework
+- Developing UI and API automation testing
+- Co-working with Backend/Frontend team and QA
 
 **Requirements**:
 
-- BS/MS background in Statistics, Mathematics, Economics, Information Management or Computer Science related discipline
-- Strong knowledge of statistics and experience in analyzing large datasets
-- Expertise in database technology with solid understanding to synthesize data with user insights
-- Hands-on skills with statistical software 
+- 2+ years of hands-on technical testing and automation testing experience
+- Experience in automation software development in testing and reporting
+- The ingenuity to think of new ways to test and break the product
 
-#### UX Designer 
+**Nice to Have**:
 
-**Design awesome UX for Cobinhood Website and Apps**
+- A strong practicing interest in the crypto space OR personal or professional experience investing and trading securities through online platforms
+- High level of comfort and experience with Git
+- Experience with various test tools including Selenium, Appium, Postman, Jenkins
+- Familiar with scripting languages, i.e. Python
 
-**Requirements**:
-
-- Familiar with Flow Chart / Wireframe / Prototyping / Usability Test / User Research / Interaction Design / User Interview. 
-- Familiar with PS / AI / Sketch / InVision / Zeplin. 
-- Familiar HTML5, CSS3, Sass, and popular web UI frameworks. 
-- Familiar with micro animation design with After Effects / Principle. 
-- Passionate about all things UI and other areas of design and innovation.
-- Please attach your online portfolio or any relevant personal design series for reference.
-
-#### Product Intern (Senior Students Welcomed)
-
-We are looking for a Product Tester to assess software quality through manual and automated testing. As a Product tester, you will be responsible for finding and reporting product defects, as well as to develop new test cases. 
-To succeed in this role, you possess a keen eye for detail and excellent communication skills. 
-Ultimately, you will work as a part of the team to ensure that we ship quality code and our products are awesome. 
+#### Quality Assurance
 
 **Responsibilities**:
 
-- Execute test cases and analyse test results 
-- Preparing test reports for tracking and analysis 
-- Evaluate test cases and explore new use cases 
-- Report bugs and improvements to development team 
-- Troubleshoot issues 
-- Conduct new feature and post-release testing 
+- Execute test cases and analyse test results
+- Preparing test reports for tracking and analysis
+- Evaluate test cases and explore new use cases
+- Report bugs and improvements to development team
+- Troubleshoot issues
+- Conduct new feature and post-release testing
 - Work with cross-functional teams to ensure quality throughout the software development life cycle
 
 **Requirements**:
+
+- Logical, detail-oriented, and sensitive to numbers 
+- Strong communication skills in Mandarin and English
+- Excellent skills in analyzing
+- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
+- Ability to troubleshoot and document errors
+- Analytical and curios mindset with a problem-solving aptitude
+- Experience in QA, Agile framework or project management a huge plus
+
+#### Quality Intern
+
+You will work as a part of the team to ensure that our products/functions are awesome. You can gain quality testing skill with our world-class RD team. 
+To succeed in this role, you possess a keen eye for detail and excellent communication skills.
+
+**Responsibilities**:
+
+- Work with cross-functional teams to ensure quality throughout the software development life cycle
+- Execute/Evaluate test cases and analyse test results
+- Preparing test reports for tracking and analysis
+- Troubleshoot issues
+
+**Desirable Qualifications**:
 
 - Senior year university/graduate student; CS/information major, economy major, business major is a plus. 
 - Strong communication skills in Mandarin and English. 
 - Logical, detail-oriented, and sensitive to numbers. 
 - Excellent skills in analyzing. 
-- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms 
-- Ability to troubleshoot and document errors 
-- Analytical and curios mindset with a problem-solving aptitude 
-- Experience in QA, Agile framework or project management a huge plus
+- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
+- Ability to troubleshoot and document errors
+- Analytical and curios mindset with a problem-solving aptitude
+
+---
+
+### PRODUCT
+
+#### UX Designer 
+
+Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for the interaction and architecture of our products, working across user interface both on mobile app and web. You will be part of the team that drive the design for systematic and innovative product features. 
+
+**Requirements**:
+
+- Familiar with Flow Chart / Wireframe / Prototyping / Usability Test / User Research / Interaction Design / User Interview 
+- Familiar with PS / AI / Sketch / InVision / Zeplin
+- Familiar HTML5, CSS3, Sass, and popular web UI frameworks
+- Familiar with micro animation design with After Effects / Principle
+- Passionate about all things UI and other areas of design and innovation
+- Please attach your online portfolio or any relevant personal design series for reference
+
+#### Payment Operation 
+
+**Responsibilities**:
+
+- Responsible for clients’ transaction/cancellation : receiving, checking, manual creation. Informing Spoke on Missing transaction, Cancellation requests and proper documentation
+- Work across the Financial Institutions and Third-Party Payment Partners to deliver the workflow optimization strategy
+- Follow-up of trades up until settlement: checking pending trades, trade release, receiving timely updates from banks and accurate reporting to our customer
+- Ensure risk management approval is taken well before agreed time for forcing instructions to market, when short of money
+- Realize the significance of precise client reporting at all times and adhere to it
+- Escalate unresolved open issues / high risk items to the manager
+- Consistently evaluate and update documented procedures to ensure they are complete, accurate and current
+
+**Desirable Qualifications**:
+
+- 1+ years experience in Consumer Banking, Digital Banking background preferred
+- Strong analytical skills, detail-oriented
+- Passion & Knowledge of cryptocurrency and blockchain technologies is a must
 
 ---
 
@@ -309,27 +339,27 @@ To ensure and enhance public communications of COBINHOOD align with industry/reg
 
 ---
 
-### LEGAL
+### OPERATION
 
-#### Legal Manager
+#### Front Desk/ Receptionist
 
-**Responsibilities**：
+As the Receptionist in COBINHOOD, you will need to be a masterful problem-solver and an organizational force given complex calendaring.
 
-- Provide legal support on all aspects of key strategy
-- Draft, review & revise Contract and agreement of COBINHOOD
-- Study global cryptocurrency regulation especially in cryptocurrency exchange and ICO
-- Advise frameworks of regulation for cryptocurrency exchange and ICO business in Taiwan
-- Manage corporate governance and review public materials in terms of legal perspective
-- Collaborate with and manage outside counsel on an as-needed basis
+**Responsibilities**:
+- Answer, screen, and forward any incoming phone calls while providing basic information as needed
+- Maintain security by following procedures and controlling access
+- Organize space planning and large offsite events
+- Perform general clerical duties including answering phones, taking and distributing messages
+- Handle special projects as assigned
 
-**Requirement**：
+**Requirements**:
+- 1 - 2 years of experience in administrative support or as a receptionist, or experience in air cabin crew/hotel receptionist
+- Must speak in English fluently
+- Proficient in Microsoft Excel, PowerPoint, Word and Google applications
+- Strong organizational and communication skills, team orientated philosophy, and problem solving skills 
+- Someone who will keep his/her work area clean and organized
+- Friendly, calm and composed
 
-- A minimum of 2-3 years of work experience in legal firm
-- Strong knowledge of financial industry
-- Strong knowledge of cryptocurrency is a plus
-- Ability to proactively identify, analyze and resolve issues and provide timely, concise and business-focused legal advice in a fast-paced, dynamic environment
-- Proficiency in English
-- Fluent in Japanese is a plus
 
 ---
 
