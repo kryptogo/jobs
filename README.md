@@ -231,7 +231,7 @@ This role will require the candidate to ensure that we are only shipping quality
 
 #### Quality Intern
 
-**2-3 day/week, at least 6-month employment, senior student welcomed**
+**2-3 days/week, at least 6-month employment, senior students are welcome**
 
 You will work as a part of the team to ensure that our products/functions are awesome. You can gain quality testing skill with our world-class RD team. 
 To succeed in this role, you possess a keen eye for detail and excellent communication skills.
@@ -300,12 +300,14 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 You’ll obligate to be in high demand of engaging with clients, including initiating solution, analyzing and designing business model, and providing programming(smart contract)support /business. You’ll continue to cultivate your insights across various industries with COBINHOOD.
 
 **Essential Requirements**:
+
 - 1+ years experience in backend engineering position
 - 1+ years experience in engaging with business clients in Tech/Software industries
 - Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
 - BS/MS background in Computer Science or relevant discipline
 
 **Desirable Qualifications**:
+
 - Strong overall understanding of digital currencies/assets
 - Pragmatic knowledge of international payments
 - Deep insight into commodities/currencies or bitcoin
@@ -347,11 +349,31 @@ To ensure and enhance public communications of COBINHOOD align with industry/reg
 
 ### OPERATION
 
+#### Human Resource Intern
+
+We are looking for an HR Intern to perform various administrative tasks and support our HR’s daily activities. You will be a key to build up our world-class team, meanwhile, you can gain hands-on experience in recruitment and talent administration.
+
+**2-3 days/week, at least 6-month employment, senior students are welcome**
+
+**Responsibilities**:
+
+- Explore more sourcing channels. Post, update and remove job ads from job boards, careers pages and social networks
+- Update our internal databases with candidate and new employee information
+- Assist with other administrative tasks as needed
+
+**Desirable Qualifications**:
+
+- Senior student, have participated in various extracurricular activities
+- Personable, able to comfortably and pleasantly deal with a variety of people
+- Strong customer service skills
+- Problem solving capabilities necessary to accomplish the duties and tasks of the position
+
 #### Front Desk/ Receptionist
 
 As the Receptionist in COBINHOOD, you will need to be a masterful problem-solver and an organizational force given complex calendaring.
 
 **Responsibilities**:
+
 - Answer, screen, and forward any incoming phone calls while providing basic information as needed
 - Maintain security by following procedures and controlling access
 - Organize space planning and large offsite events
@@ -359,6 +381,7 @@ As the Receptionist in COBINHOOD, you will need to be a masterful problem-solver
 - Handle special projects as assigned
 
 **Requirements**:
+
 - 1 - 2 years of experience in administrative support or as a receptionist, or experience in air cabin crew/hotel receptionist
 - Must speak in English fluently
 - Proficient in Microsoft Excel, PowerPoint, Word and Google applications
