@@ -13,7 +13,7 @@ Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.co
 
 #### Software Engineer - Backend 
 
-**Strong Fresh Graduate Welcomed**
+**Strong Fresh Graduate are Welcome**
 
 Develop high-quality, high-concurrency, high-availability, high-scalability API backend with distributed micro-services
 
@@ -30,7 +30,7 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 
 #### Blockchain Researcher
 
-**MS-Ph.D candidate and Experienced researcher Welcomed**
+**Both MS-Ph.D candidate and Experienced researcher are Welcome**
 
 **Responsibilities**：
 
