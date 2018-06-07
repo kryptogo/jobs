@@ -292,7 +292,7 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 
 ### BUSINESS DEVELOPMENT
 
-#### Business Development - Technical Pre-Sales
+#### Technical Pre-Sales
 
 **Responsibilities**:
 
@@ -365,7 +365,6 @@ As the Receptionist in COBINHOOD, you will need to be a masterful problem-solver
 - Strong organizational and communication skills, team orientated philosophy, and problem solving skills 
 - Someone who will keep his/her work area clean and organized
 - Friendly, calm and composed
-
 
 ---
 
