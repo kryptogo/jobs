@@ -292,6 +292,22 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 
 ### BUSINESS DEVELOPMENT
 
+#### Market Research/Business Analyst
+
+**Responsibilities**:
+
+- - In-depth research and analysis of blockchain, cryptocurrency, and ICO (Initial Coin Offering) projects across the globe. 
+- Formulating and articulating detailed reports of investment views and recommendations
+- Compile competitive intelligence on industry trends, market dynamics, and business portfolio to support our strategies for Business Development team and key clients
+
+**Essential Requirements**:
+
+- 2+ years of working experience as a researching role in venture capital industry
+- Excellent skills in research and analysis
+- Strong insight in blockchain and cryptocurrencies
+- Strong communication skills in Mandarin and English
+- Logical, detail-oriented, and sensitive to numbers
+
 #### Technical Pre-Sales
 
 **Responsibilities**:
