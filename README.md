@@ -177,7 +177,7 @@ Develop high quality website for COBINHOOD
 
 ---
 
-### Quality Team
+### QUALITY
 
 Quality Team is looking for Product Testers to assess software quality through manual and automated testing. As a Product tester, you will be responsible for finding and reporting product defects, as well as to develop new test cases.
 To succeed in this role, you possess a keen eye for detail and excellent communication skills.
