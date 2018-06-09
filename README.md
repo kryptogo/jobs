@@ -317,7 +317,7 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 
 **Essential Requirements**:
 
-- 1+ years experience in backend engineering position
+- 2+ years experience in backend engineerer position
 - 1+ years experience in engaging with business clients in Tech/Software industries
 - Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
 - BS/MS background in Computer Science or relevant discipline
@@ -332,7 +332,53 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 
 ### MARKETING COMMUNICATIONS
 
+#### Digital Community Manager
+
+**Foreigners Welcome**
+
+This role will lead and develop COBINHOOD’s digital communications strategy, and ensure that we make effective use of a range of digital platforms/channels to support the aim.
+Also improve COBINHOOD’s digital presence, make sure our digital channels consistently spark interest and reach a range of audiences.
+
+**Requirement**：
+
+- 2-3 years experience in digital marketing, with strong preference to search marketing and/or other forms of performance marketing efforts
+- Be knowledgeable in all matters regarding digital communication, including marketing management/ latest technical developments
+- Familiar with content management systems/ social media platforms(Telegram, YouTube, Medium, Twitter, Facebook...etc)
+- Experience in promoting positive online engagement and developing digital assets
+- Strong communication skills, both verbal and written with innovative ideas to inspire audiences loyalty
+- Prove experience building strong internal and external relationships
+- Ability to combine creative problem solving, consumer insights, and strategic thinking in a fluid environment
+
+#### Social Media Marketing Manager 
+
+**Foreigners Welcome**
+
+**Responsibilities**：
+
+- Create and curate content for our blog, newsletter, website and social media channels. 
+- Monitor, record and analyze stakeholder sentiment and brand reputation 
+- Build and maintain strong relationships with media and key opinion leaders focused on the blockchain industry 
+- Pitch relevant news and stories to journalists 
+- Communicate with community stakeholders across a wide range of online channels such as subreddits, cryptocurrency forums, slack channels and chat groups 
+- Research relevant industry events and submit executives for participation as speakers/panelists 
+- Manage vendors from design/translation/marketing agencies 
+- Drive internal communication activities and content
+
+**Requirement**：
+
+- Excellent English writing and editing skills 
+- 2 years’ experience in marketing, public relations or journalism 
+- Detailed knowledge of the news media landscape and how PR works 
+- Familiarity with online marketing tools including Medium, MailChimp, Buffer, and Google Analytics 
+- Patient, proactive and mature personality 
+- Exceptional organizational and project management skills 
+- Confident working independently 
+- Enjoy working in an international team environment 
+- Great if you have an existing network of journalists and bloggers covering finance and technology 
+
 #### Marketing Campaign Manager
+
+**Responsibilities**：
 
 Lead and execute a successful go-to market strategy for COBINHOOD
 
@@ -346,6 +392,14 @@ Lead and execute a successful go-to market strategy for COBINHOOD
 - Understanding of SEO best practices and techniques is a plus
 - Additional qualifications or experience in basic design is a plus
 - Ability to work creatively and love getting involved with events
+
+**Requirement**：
+
+- Familiarity with marketing material management and design
+- Understanding of SEO best practices and techniques is a plus
+- Ability to multitask and perform under tight deadlines
+- Additional qualifications or experience in basic design is a plus
+- Ability to work creatively 
 
 #### Public Relationship Manager
 
