@@ -302,7 +302,7 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 
 **Essential Requirements**:
 
-- 2+ years of working experience as a researching role in venture capital industry
+- 2+ years of working experience as a researching role in venture capital or investment banking industry
 - Excellent skills in research and analysis
 - Strong insight in blockchain and cryptocurrencies
 - Strong communication skills in Mandarin and English
