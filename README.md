@@ -296,16 +296,16 @@ Cobinhood is looking for young and motivated talents to join our fast growing pr
 
 **Responsibilities**:
 
-- Collect & analysis our competitors, impact our strategies by deeply understand the world of crypto exchanges.
-- Being the member & foundation of user interviews, compose interview outlines and analysis the outcomes.
-- Gather and model metrics with real data through analytic platforms.
+- Collect & analysis our competitors, impact our strategies by deeply understand the world of crypto exchanges
+- Being the member & foundation of user interviews, compose interview outlines and analysis the outcomes
+- Gather and model metrics with real data through analytic platforms
 
 **Desirable Qualifications**:
 
-- Familiar with any of wireframe tools.
-- Passionate with Cryptocurrencies, Blockchain technologies.
-- You hold some cryptocurrencies, or you are one of the traders.
-- You have a solid background, or great enthusiasm in Information technology or Financial related fields.
+- Familiar with any of wireframe tools
+- Passionate with Cryptocurrencies, Blockchain technologies
+- You hold some cryptocurrencies, or you are one of the traders
+- You have a solid background, or great enthusiasm in Information technology or Financial related fields
 
 ---
 
