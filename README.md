@@ -288,6 +288,25 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - Strong analytical skills, detail-oriented
 - Passion & Knowledge of cryptocurrency and blockchain technologies is a must
 
+#### Product Intern 
+
+**2-3 days/week, at least 6-month employment, senior students are welcome**
+
+Cobinhood is looking for young and motivated talents to join our fast growing product team. You will work with our world-class product development/ operation folks directly, together, we will reshape the world of internet with Blockchain technology and  Cryptocurrencies! Your major responsibilities are as followed:
+
+**Responsibilities**:
+
+- Collect & analysis our competitors, impact our strategies by deeply understand the world of crypto exchanges.
+- Being the member & foundation of user interviews, compose interview outlines and analysis the outcomes.
+- Gather and model metrics with real data through analytic platforms.
+
+**Desirable Qualifications**:
+
+- Familiar with any of wireframe tools.
+- Passionate with Cryptocurrencies, Blockchain technologies.
+- You hold some cryptocurrencies, or you are one of the traders.
+- You have a solid background, or great enthusiasm in Information technology or Financial related fields.
+
 ---
 
 ### BUSINESS DEVELOPMENT
