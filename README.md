@@ -255,7 +255,7 @@ To succeed in this role, you possess a keen eye for detail and excellent communi
 
 ---
 
-### PRODUCT
+### DESIGN
 
 #### UX Designer 
 
@@ -269,6 +269,29 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - Familiar with micro animation design with After Effects / Principle
 - Passionate about all things UI and other areas of design and innovation
 - Please attach your online portfolio or any relevant personal design series for reference
+
+---
+
+### PRODUCT
+
+#### Data Analyst 
+
+**Responsibilities**:
+
+- Plan and conduct large-scale experiments to test hypotheses and drive product development.
+- Drive the creation of comprehensive datasets encompassing user profiles and behaviors, and incorporating a wide variety of signals and data types.
+- Competent to rapidly develop prototypes to prove out hypotheses with small dataset
+- Work closely with PM to sprint the verification with real data
+
+**Essential Qualifications**:
+
+- Bachelor's degree in Mathematic/Statistics or any related field or equivalent practical experience
+- In-depth understanding of data models, statistical analysis to predict users' behavior
+- Strong knowledge of Statistics tools 
+
+**Desirable Qualifications**:
+- Experience in the advertising industry
+- Strong written and verbal communication skills
 
 #### Payment Operation 
 
@@ -309,6 +332,28 @@ Cobinhood is looking for young and motivated talents to join our fast growing pr
 
 ---
 
+### CUSTOMER
+
+#### Customer Service Representative
+
+**Responsibilities**:
+
+**senior students are welcome**
+
+Many customers write in about issues related to COBINHOOD, and you will provide services to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty.
+You’ll also respond to general support, trading, and other questions or requests from customers.
+You are the face of COBINHOOD and the first person many of our clients see. You have ownership for providing an exceptional experience by engaging with customers and showing them we care about them
+
+**Essential Requirements**:
+
+- Strong personal communications skills
+- Ability to focus and work with interruptions in an exciting and growing company
+- Ability to stay calm, organized, polite, and efficient under pressure with excellent manners
+- Able to fluently write in English
+- Enjoys working closely with customers to ensure complete satisfaction
+
+---
+
 ### BUSINESS DEVELOPMENT
 
 #### Market Research/Business Analyst
@@ -346,6 +391,52 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 - Strong overall understanding of digital currencies/assets
 - Pragmatic knowledge of international payments
 - Deep insight into commodities/currencies or bitcoin
+
+#### Partnership Manager
+
+**Responsibilities**:
+
+- This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. 
+It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations. 
+You’ll ontinue to develop your views across various levels with COBINHOOD.
+
+**Essential Requirements**:
+
+- 3+ years experience in engaging with influencers in different fields
+- Timely perceive and understand up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
+- To deliver excellent interpersonal skills, international communication and travels
+- To conduct quick approach, collection, maintenance of critical connections
+
+**Desirable Qualifications**:
+
+- Strong understanding of digital currencies/assets
+- Pragmatic knowledge of international payments
+- Deep insight into commodities/currencies or bitcoin
+- Familiar with Psychology is a plus
+- Outstanding experience of public sector is a plus
+
+#### Engagement Manager
+
+**Responsibilities**:
+
+- This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion. 
+It would be a gateway of business approach for COBINHOOD to explore and to seek for business cooperation. You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals. 
+You’ll continue to cultivate your insights across various industries with COBINHOOD.
+
+**Essential Requirements**:
+
+- 2+ years experience in engaging with various business partners in different industries
+- Timely perceive and understand up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
+- To deliver excellent presentation, analysis, international communication and travels
+- To conduct quick survey of industry; analyze and design business model
+
+**Desirable Qualifications**:
+
+- Strong understanding of digital currencies/assets
+- Pragmatic knowledge of international payments
+- Deep insight into commodities/currencies or bitcoin
+- Familiar with Psychology is a plus
+- Outstanding experience of business consulting is a plus
 
 ---
 
