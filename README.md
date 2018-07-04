@@ -350,7 +350,7 @@ You are the face of COBINHOOD and the first person many of our clients see. You 
 - Able to fluently write in English
 - Enjoys working closely with customers to ensure complete satisfaction
 
-#### KKYC Part-timer
+#### KYC Part-timer
 
 **senior students are welcome**
 
