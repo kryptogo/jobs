@@ -338,8 +338,6 @@ Cobinhood is looking for young and motivated talents to join our fast growing pr
 
 **Responsibilities**:
 
-**senior students are welcome**
-
 Many customers write in about issues related to COBINHOOD, and you will provide services to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty.
 You’ll also respond to general support, trading, and other questions or requests from customers.
 You are the face of COBINHOOD and the first person many of our clients see. You have ownership for providing an exceptional experience by engaging with customers and showing them we care about them
@@ -350,6 +348,35 @@ You are the face of COBINHOOD and the first person many of our clients see. You 
 - Ability to focus and work with interruptions in an exciting and growing company
 - Ability to stay calm, organized, polite, and efficient under pressure with excellent manners
 - Able to fluently write in English
+- Enjoys working closely with customers to ensure complete satisfaction
+
+#### KKYC Part-timer
+
+**senior students are welcome**
+
+The KYC specialist will be responsible for completing periodic Know-Your-Customer (KYC) reviews of existing clients in accordance with internal policies and regulatory requirements.
+
+**Essential Requirements**:
+
+- Responsibilities include:
+- Independent verification of information supplied
+- Review existing client data to ensure information is complete and accurate
+
+**Desirable Requirements**:
+
+- Accuracy with excellent attention to detail
+- Enjoys working closely with customers to ensure complete satisfaction
+
+#### Customer Servicer Part-timer
+
+**senior students are welcome**
+
+On our team, you’ll respond to customer requests via email and live chat.
+Many customers write in about issues related to COBINHOOD, and you will execute SOP to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty.
+You’ll also respond to general support, trading, and other questions or requests from customers.
+
+**Essential Requirements**:
+
 - Enjoys working closely with customers to ensure complete satisfaction
 
 ---
