@@ -219,7 +219,7 @@ This role will require the candidate to ensure that we are only shipping quality
 - Conduct new feature and post-release testing
 - Work with cross-functional teams to ensure quality throughout the software development life cycle
 
-**Requirements**:
+**Essential Requirements**:
 
 - Logical, detail-oriented, and sensitive to numbers 
 - Strong communication skills in Mandarin and English
@@ -243,7 +243,7 @@ To succeed in this role, you possess a keen eye for detail and excellent communi
 - Preparing test reports for tracking and analysis
 - Troubleshoot issues
 
-**Desirable Qualifications**:
+**Essential Requirements**:
 
 - Senior year university/graduate student; CS/information major, economy major, business major is a plus. 
 - Strong communication skills in Mandarin and English. 
@@ -261,7 +261,7 @@ To succeed in this role, you possess a keen eye for detail and excellent communi
 
 Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for the interaction and architecture of our products, working across user interface both on mobile app and web. You will be part of the team that drive the design for systematic and innovative product features. 
 
-**Requirements**:
+**Essential Requirements**:
 
 - Familiar with Flow Chart / Wireframe / Prototyping / Usability Test / User Research / Interaction Design / User Interview 
 - Familiar with PS / AI / Sketch / InVision / Zeplin
@@ -283,13 +283,13 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - Competent to rapidly develop prototypes to prove out hypotheses with small dataset
 - Work closely with PM to sprint the verification with real data
 
-**Essential Qualifications**:
+**Essential Requirements**:
 
 - Bachelor's degree in Mathematic/Statistics or any related field or equivalent practical experience
 - In-depth understanding of data models, statistical analysis to predict users' behavior
 - Strong knowledge of Statistics tools 
 
-**Desirable Qualifications**:
+**Desirable Requirements**:
 - Experience in the advertising industry
 - Strong written and verbal communication skills
 
@@ -305,7 +305,7 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - Escalate unresolved open issues / high risk items to the manager
 - Consistently evaluate and update documented procedures to ensure they are complete, accurate and current
 
-**Desirable Qualifications**:
+**Essential Requirements**:
 
 - 1+ years experience in Consumer Banking, Digital Banking background preferred
 - Strong analytical skills, detail-oriented
@@ -323,7 +323,7 @@ Cobinhood is looking for young and motivated talents to join our fast growing pr
 - Being the member & foundation of user interviews, compose interview outlines and analysis the outcomes
 - Gather and model metrics with real data through analytic platforms
 
-**Desirable Qualifications**:
+**Essential Requirements**:
 
 - Familiar with any of wireframe tools
 - Passionate with Cryptocurrencies, Blockchain technologies
@@ -352,17 +352,16 @@ You are the face of COBINHOOD and the first person many of our clients see. You 
 
 #### KYC Part-timer
 
-**senior students are welcome**
+**Senior students are welcome**
 
 The KYC specialist will be responsible for completing periodic Know-Your-Customer (KYC) reviews of existing clients in accordance with internal policies and regulatory requirements.
 
-**Essential Requirements**:
+**Responsibilities**:
 
-- Responsibilities include:
 - Independent verification of information supplied
 - Review existing client data to ensure information is complete and accurate
 
-**Desirable Requirements**:
+**Essential Requirements**:
 
 - Accuracy with excellent attention to detail
 - Enjoys working closely with customers to ensure complete satisfaction
@@ -370,6 +369,8 @@ The KYC specialist will be responsible for completing periodic Know-Your-Custome
 #### Customer Servicer Part-timer
 
 **senior students are welcome**
+
+**Responsibilities**:
 
 On our team, you’ll respond to customer requests via email and live chat.
 Many customers write in about issues related to COBINHOOD, and you will execute SOP to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty.
@@ -413,7 +414,7 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 - Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
 - BS/MS background in Computer Science or relevant discipline
 
-**Desirable Qualifications**:
+**Desirable Requirements**:
 
 - Strong overall understanding of digital currencies/assets
 - Pragmatic knowledge of international payments
@@ -434,7 +435,7 @@ You’ll ontinue to develop your views across various levels with COBINHOOD.
 - To deliver excellent interpersonal skills, international communication and travels
 - To conduct quick approach, collection, maintenance of critical connections
 
-**Desirable Qualifications**:
+**Desirable Requirements**:
 
 - Strong understanding of digital currencies/assets
 - Pragmatic knowledge of international payments
@@ -457,7 +458,7 @@ You’ll continue to cultivate your insights across various industries with COBI
 - To deliver excellent presentation, analysis, international communication and travels
 - To conduct quick survey of industry; analyze and design business model
 
-**Desirable Qualifications**:
+**Desirable Requirements**:
 
 - Strong understanding of digital currencies/assets
 - Pragmatic knowledge of international payments
@@ -501,7 +502,7 @@ Also improve COBINHOOD’s digital presence, make sure our digital channels cons
 - Manage vendors from design/translation/marketing agencies 
 - Drive internal communication activities and content
 
-**Requirement**：
+**Essential Requirement**：
 
 - Excellent English writing and editing skills 
 - 2 years’ experience in marketing, public relations or journalism 
@@ -530,7 +531,7 @@ Lead and execute a successful go-to market strategy for COBINHOOD
 - Additional qualifications or experience in basic design is a plus
 - Ability to work creatively and love getting involved with events
 
-**Requirement**：
+**Essential Requirement**：
 
 - Familiarity with marketing material management and design
 - Understanding of SEO best practices and techniques is a plus
@@ -544,7 +545,7 @@ Lead and execute a successful go-to market strategy for COBINHOOD
 
 To ensure and enhance public communications of COBINHOOD align with industry/regulatory standards and display COBINHOOD in a positive light.
 
-**Requirement**：
+**Essential Requirement**：
 
 - Experiences working in public relations including managing local, regional, national and publicity efforts. 
 - A proven track record of managing successful PR campaigns
@@ -568,7 +569,7 @@ We are looking for an HR Intern to perform various administrative tasks and supp
 - Update our internal databases with candidate and new employee information
 - Assist with other administrative tasks as needed
 
-**Desirable Qualifications**:
+**Desirable Requirements**:
 
 - Senior student, have participated in various extracurricular activities
 - Personable, able to comfortably and pleasantly deal with a variety of people
@@ -587,7 +588,7 @@ As the Receptionist in COBINHOOD, you will need to be a masterful problem-solver
 - Perform general clerical duties including answering phones, taking and distributing messages
 - Handle special projects as assigned
 
-**Requirements**:
+**Essential Requirements**:
 
 - 1 - 2 years of experience in administrative support or as a receptionist, or experience in air cabin crew/hotel receptionist
 - Must speak in English fluently
