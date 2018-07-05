@@ -349,9 +349,9 @@ The KYC specialist will be responsible for completing periodic Know-Your-Custome
 - Accuracy with excellent attention to detail
 - Enjoys working closely with customers to ensure complete satisfaction
 
-#### Customer Servicer Part-timer
+#### Customer Service Part-timer
 
-**senior students are welcome**
+**Senior students are welcome**
 
 **Responsibilities**:
 
