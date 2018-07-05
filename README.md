@@ -387,13 +387,12 @@ You’ll also respond to general support, trading, and other questions or reques
 
 **Responsibilities**:
 
-- This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. 
+This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. 
 You’ll obligate to be in high demand of engaging with clients, including initiating solution, analyzing and designing business model, and providing programming(smart contract)support /business. You’ll continue to cultivate your insights across various industries with COBINHOOD.
 
 **Essential Requirements**:
 
-- 2+ years experience in backend engineerer position
-- 1+ years experience in engaging with business clients in Tech/Software industries
+- 2+ years experience in backend engineer position
 - Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
 - BS/MS background in Computer Science or relevant discipline
 
