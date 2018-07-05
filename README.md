@@ -158,23 +158,6 @@ Develop high quality website for COBINHOOD
 - Ability to use configuration management tools and revision control system (Git, SVN, Saltstack, cfengine, etc.)
 - Solid experience in operating system automation, knowledge in Puppet, Chef, Salt, and Ansible
 
-#### Data Scientist
-
-**Responsibilities**:
-
-- Develop advanced machine learning and statistical models
-- Data mining and feature engineering
-- Collaborate with engineering and product teams
-
-**Requirements**:
-
-- Bachelor's degree in computer science/engineering or any related field or equivalent practical experience
-- In-depth understanding of in-depth machine learning models and statistical analysis
-- Understanding of data processing and building production models
-- Familiar with machine learning library (e.g. Tensorflow)
-- Strong knowledge of Python or Scala
-- Competency in SQL or NoSQL
-
 ---
 
 ### QUALITY
