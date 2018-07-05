@@ -406,7 +406,7 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 
 **Responsibilities**:
 
-- This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. 
+This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. 
 It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations. 
 You’ll ontinue to develop your views across various levels with COBINHOOD.
 
@@ -429,7 +429,7 @@ You’ll ontinue to develop your views across various levels with COBINHOOD.
 
 **Responsibilities**:
 
-- This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion. 
+This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion. 
 It would be a gateway of business approach for COBINHOOD to explore and to seek for business cooperation. You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals. 
 You’ll continue to cultivate your insights across various industries with COBINHOOD.
 
