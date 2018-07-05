@@ -454,7 +454,7 @@ You’ll continue to cultivate your insights across various industries with COBI
 
 #### Digital Community Manager
 
-**Foreigners Welcome**
+**Foreigners are welcome**
 
 This role will lead and develop COBINHOOD’s digital communications strategy, and ensure that we make effective use of a range of digital platforms/channels to support the aim.
 Also improve COBINHOOD’s digital presence, make sure our digital channels consistently spark interest and reach a range of audiences.
@@ -471,7 +471,7 @@ Also improve COBINHOOD’s digital presence, make sure our digital channels cons
 
 #### Social Media Marketing Manager 
 
-**Foreigners Welcome**
+**Foreigners are welcome**
 
 **Responsibilities**：
 
