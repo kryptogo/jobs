@@ -355,7 +355,7 @@ The KYC specialist will be responsible for completing periodic Know-Your-Custome
 
 **Responsibilities**:
 
-On our team, you’ll respond to customer requests via email and live chat.
+In our team, you’ll respond to customer requests via email and live chat.
 Many customers write in about issues related to COBINHOOD, and you will execute SOP to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty.
 You’ll also respond to general support, trading, and other questions or requests from customers.
 
