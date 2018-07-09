@@ -249,8 +249,9 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - Freely voice your ideas  and work in a collaborative culture
 - Develop your career outside of the confines of a traditional career path by focusing on what you’re passionate about instead of a predetermined, one-size-fits-all plan
 - Make a real impact outside of work by leading and/or contributing to global cryptocurrency communities 
-- Provide product vision and leadership in making cryptos easier to use and trustedYou will bring... 
+- Provide product vision and leadership in making cryptos easier to use and trusted
 
+**You will bring... 
 **Experience**: 
 - Discover usability issues and initiate UX design solutions from research to prototypes to prove the concept
 - Communicate research findings, conceptual ideas, detailed design, and design rationale verbally and visually
