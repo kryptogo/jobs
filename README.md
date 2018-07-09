@@ -244,14 +244,28 @@ To succeed in this role, you possess a keen eye for detail and excellent communi
 
 Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for the interaction and architecture of our products, working across user interface both on mobile app and web. You will be part of the team that drive the design for systematic and innovative product features. 
 
-**Essential Requirements**:
+**What you will gain from COBINHOOD**:
+- Work alongside teams of product managers, business development/marketing managers, stakeholders, and developers
+- Freely voice your ideas  and work in a collaborative culture
+- Develop your career outside of the confines of a traditional career path by focusing on what you’re passionate about instead of a predetermined, one-size-fits-all plan
+- Make a real impact outside of work by leading and/or contributing to global cryptocurrency communities 
+- Provide product vision and leadership in making cryptos easier to use and trustedYou will bring... 
 
-- Familiar with Flow Chart / Wireframe / Prototyping / Usability Test / User Research / Interaction Design / User Interview 
-- Familiar with PS / AI / Sketch / InVision / Zeplin
-- Familiar HTML5, CSS3, Sass, and popular web UI frameworks
-- Familiar with micro animation design with After Effects / Principle
-- Passionate about all things UI and other areas of design and innovation
-- Please attach your online portfolio or any relevant personal design series for reference
+**Experience**: 
+- Discover usability issues and initiate UX design solutions from research to prototypes to prove the concept
+- Communicate research findings, conceptual ideas, detailed design, and design rationale verbally and visually
+- Ability to create rapid, iterative, and low-fi prototypes
+- Knowledge of tools and concepts around human-centered design
+- Qualitative research experience
+- Experience in usability testing, A/B testing, storytelling, and translating between business and technical jargon
+- Ability to relate, understand, grasp concepts, and interpret user needs
+
+**Bonus Skills**: 
+- A good theoretical and practical grasp of interaction design issues, the continually evolving vocabulary of interaction and UI design, and an ability to explain this simply to others
+- Quantitative research skills 
+- Has experience with UX in an agile development environment
+- Active participant in the UX community
+- Investment experience or passionate at investment products
 
 ---
 
