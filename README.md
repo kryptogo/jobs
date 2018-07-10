@@ -378,6 +378,20 @@ You’ll also respond to general support, trading, and other questions or reques
 
 - Enjoys working closely with customers to ensure complete satisfaction
 
+#### Customer Support Associate
+
+**Senior students are welcome**
+
+**Responsibilities**:
+
+In our team, you’ll respond to customer requests via email and live chat. Many customers write in about issues related to COBINHOOD, and you will execute SOP to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty. You’ll also respond to general support, trading, and other questions or requests from customers. (You will receive orientation training on the boarding day.)
+
+**Essential Requirements**:
+
+- Enjoys working closely with customers to ensure complete satisfaction
+- Detail-oriented and good command of English in reading would be a plus
+- Remote work and flexible working hours (primarily 18:00-09:00, could be altered)
+
 ---
 
 ### BUSINESS DEVELOPMENT
