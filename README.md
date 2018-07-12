@@ -17,16 +17,25 @@ Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.co
 
 Develop high-quality, high-concurrency, high-availability, high-scalability API backend with distributed micro-services
 
-- 3+ years of backend working experience
-- 2+ years of experience developing production-level applications
-- Solid knowledge in network protocols (TCP/IP/HTTP/HTTPS)
-- Proficiency in Golang
-- Familiar with designing RESTful APIs
-- Familiar with databases and SQL/NoSQL
-- Familiar with Linux, AWS/GCP
-- Familiar with distributed system
-- Experience with Kubernetes, Docker, DevOps, and CI/CD procedures
-- Passionate with new technologies
+**Responsibilities**：
+
+- Develop COBINHOOD exchange services, including RESTful API and web socket
+- Integrate a variety of Blockchain technologies
+- Design and implement distributed backend micro services to achieve high availability and scalability
+- Develop high performance trading engine
+
+**Requirements**：
+
+- 2+ years backend experiences 
+- Design RESTful APIs 
+- Knowledge in protocols (TCP/IP/HTTP/HTTPS)
+- Golang, C/C++ or Python programming skill 
+- SQL related experience
+
+**Nice to have**：
+
+- Familiar with Linux System
+- Knowledge of Blockchain/ Bitcoin/ Ethereum/ Crypto/ Cryptocurrency
 
 #### Blockchain Researcher
 
@@ -53,9 +62,14 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 
 Given breaches are the number one cause of death among digital currency companies, security is core to our mission and has been a key competitive differentiator for us as we scale. If you crave a real adversary but find yourself responding to generic phishing and yet another piece of adware…we should talk.
 
+**Responsibilities**：
+
 - Build/deploy/maintain security controls, instrumentation, and detection infrastructure
 - Investigate security events, or better yet, automate the investigation and remediation of security events
 - Conduct in-depth research on attacker profiles and infrastructure to better predict and prevent future attacks
+
+**Requirements**：
+
 - Significant experience in incident detection, incident response, and forensics
 - Proficient in a modern high-level language (Go preferred)
 - Strong understanding of GCP services and architectures
@@ -63,24 +77,22 @@ Given breaches are the number one cause of death among digital currency companie
 - Experience with executing incident response in virtual and containerized environments
 - Experience conducting research on threat actors and their methodologies
 
-#### Software Engineer - Trading Engine
+#### Software Engineer - Algo-Trading
 
 **Responsibilities**：
 
-- Maximum trading performance(TPS) out of the system
-- Performance tuning on the existing databases and backend services.
+- Develop and implement algorithmic trading systems 
+- Develop machine learning algorithm to help us understand key industry trends in algo development
 
 **Requirements**：
 
-- 3+ years experiences in backend development
-- 2+ years experiences in developing production-level application
-- Experience in high throughput, low latency system design
-- Experience in Kafka/Cockroach distributed database system technologies
-- Familiar with designing RESTful APIs
-- Strong knowledge in network protocols (TCP/IP/HTTP/HTTPS)
-- Proficiency in Golang
-- Experience with databases and SQL/NoSQL
-- Passionate on new technologies
+- Strong technical skills in Python 
+- Familiar with Algorithm
+
+**Nice to have**：
+
+- Solid hands on experience in hedge funds
+- Familiar with modern machine learning method
 
 #### Software Engineer - Machine Learning
 
@@ -102,7 +114,11 @@ Given breaches are the number one cause of death among digital currency companie
 
 #### Software Engineer - Frontend
 
-Develop high quality website for COBINHOOD
+**Responsibilities**：
+
+- Develop high quality website for COBINHOOD
+
+**Requirements**：
 
 - 2+ years of front end working experience
 - Solid knowledge on HTML5, CSS3, JavaScript (ES6+), and webpack
