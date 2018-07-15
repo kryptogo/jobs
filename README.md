@@ -561,9 +561,7 @@ Lead and execute a successful go-to market strategy for COBINHOOD
 **Essential Requirement**：
 
 - Familiarity with marketing material management and design
-- Understanding of SEO best practices and techniques is a plus
 - Ability to multitask and perform under tight deadlines
-- Additional qualifications or experience in basic design is a plus
 - Ability to work creatively 
 
 #### Public Relationship Manager
