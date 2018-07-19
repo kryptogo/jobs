@@ -268,6 +268,7 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - Provide product vision and leadership in making cryptos easier to use and trusted
 
 **You will bring... 
+
 **Experience**: 
 - Discover usability issues and initiate UX design solutions from research to prototypes to prove the concept
 - Communicate research findings, conceptual ideas, detailed design, and design rationale verbally and visually
@@ -453,7 +454,7 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 
 This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. 
 It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations. 
-You’ll ontinue to develop your views across various levels with COBINHOOD.
+You’ll continue to develop your views across various levels with COBINHOOD.
 
 **Essential Requirements**:
 
