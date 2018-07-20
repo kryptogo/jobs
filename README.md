@@ -11,7 +11,7 @@ Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.co
 
 ### ENGINEERING
 
-#### Software Engineer - Backend 
+#### Software Engineer - Backend
 
 **Strong Fresh Graduate are Welcome**
 
@@ -26,10 +26,10 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 
 **Requirements**：
 
-- 2+ years backend experiences 
-- Design RESTful APIs 
+- 2+ years backend experiences
+- Design RESTful APIs
 - Knowledge in protocols (TCP/IP/HTTP/HTTPS)
-- Golang, C/C++ or Python programming skill 
+- Golang, C/C++ or Python programming skill
 - SQL related experience
 
 **Nice to have**：
@@ -44,19 +44,37 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 **Responsibilities**：
 
 - The work of the blockchain researcher will involve the dissemination, internally and externally, of the results of such activities through publications, patents, seminars, and representing COBINHOOD at professional meetings, in professional organizations and universities.
-- Provide technical planning and support for initial blockchain product development
+- Provide technical planning and support for initial blockchain product development.
+
+**Research Areas**：
+
+- Blockchain and consensus algorithm
+- P2P networking
+- Cryptography
+- Programming language, compiler and VM
+- Formal Verification
 
 **Requirements**：
 
-- Passionate about cryptocurrency and blockchain
-- PhD in computer science-related background with research record and commitment in one or more of the following areas:
-	- distributed systems and large-scale web applications
-	- performance modeling and analysis with focus on scalability
-	- cryptography, including asymmetric (pub/private key), symmetric, hash functions, encryption/signatures
-- Familiar with Blockchain technology or other distributed system
-- Understanding of P2P networking
-- Understanding of cryptographic principles
-- Understanding of various distributed consensus methodologies (Raft, Mining, PoS, Paxos, etc)
+- Ph.D./M.S. in computer science or relevant field
+- Understanding basic knowledge of following areas:
+	- distributed computing and system dependability
+	- algorithm and complexity analysis
+	- cryptography
+
+**Preferred Qualifications:**：
+
+- Proven research capabilities in the following research areas:
+	- Blockchain technology
+	- Distributed system
+	- Smart contract
+	- Programming language, compiler and VM
+	- Formal Verification
+	- Cryptography
+	- Consensus algorithm (e.g. BFT, PoW, PoS, total ordering, etc)
+- Excellent oral and clear thought
+- Excellent English ability
+- Passion to research and innovation, independent problem solver and good teamwork
 
 #### Software Engineer - Security
 
@@ -81,12 +99,12 @@ Given breaches are the number one cause of death among digital currency companie
 
 **Responsibilities**：
 
-- Develop and implement algorithmic trading systems 
+- Develop and implement algorithmic trading systems
 - Develop machine learning algorithm to help us understand key industry trends in algo development
 
 **Requirements**：
 
-- Strong technical skills in Python 
+- Strong technical skills in Python
 - Familiar with Algorithm
 
 **Nice to have**：
@@ -188,7 +206,7 @@ Ultimately, you will work as a part of the team to ensure that we ship quality c
 
 This role will require the candidate to ensure that we are only shipping quality code and providing statistical information for quality improvement through testing methodologies and sampling for the team.
 
-- Responsible for Web/App product testing, including manual and automation testing 
+- Responsible for Web/App product testing, including manual and automation testing
 - Building automation test flow and framework
 - Developing UI and API automation testing
 - Co-working with Backend/Frontend team and QA
@@ -220,7 +238,7 @@ This role will require the candidate to ensure that we are only shipping quality
 
 **Essential Requirements**:
 
-- Logical, detail-oriented, and sensitive to numbers 
+- Logical, detail-oriented, and sensitive to numbers
 - Strong communication skills in Mandarin and English
 - Excellent skills in analyzing
 - Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
@@ -232,7 +250,7 @@ This role will require the candidate to ensure that we are only shipping quality
 
 **2-3 days/week, at least 6-month employment, senior students are welcome**
 
-You will work as a part of the team to ensure that our products/functions are awesome. You can gain quality testing skill with our world-class RD team. 
+You will work as a part of the team to ensure that our products/functions are awesome. You can gain quality testing skill with our world-class RD team.
 To succeed in this role, you possess a keen eye for detail and excellent communication skills.
 
 **Responsibilities**:
@@ -244,10 +262,10 @@ To succeed in this role, you possess a keen eye for detail and excellent communi
 
 **Essential Requirements**:
 
-- Senior year university/graduate student; CS/information major, economy major, business major is a plus. 
-- Strong communication skills in Mandarin and English. 
-- Logical, detail-oriented, and sensitive to numbers. 
-- Excellent skills in analyzing. 
+- Senior year university/graduate student; CS/information major, economy major, business major is a plus.
+- Strong communication skills in Mandarin and English.
+- Logical, detail-oriented, and sensitive to numbers.
+- Excellent skills in analyzing.
 - Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
 - Ability to troubleshoot and document errors
 - Analytical and curios mindset with a problem-solving aptitude
@@ -256,20 +274,20 @@ To succeed in this role, you possess a keen eye for detail and excellent communi
 
 ### DESIGN
 
-#### UX Designer 
+#### UX Designer
 
-Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for the interaction and architecture of our products, working across user interface both on mobile app and web. You will be part of the team that drive the design for systematic and innovative product features. 
+Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for the interaction and architecture of our products, working across user interface both on mobile app and web. You will be part of the team that drive the design for systematic and innovative product features.
 
 **What you will gain from COBINHOOD**:
 - Work alongside teams of product managers, business development/marketing managers, stakeholders, and developers
 - Freely voice your ideas  and work in a collaborative culture
 - Develop your career outside of the confines of a traditional career path by focusing on what you’re passionate about instead of a predetermined, one-size-fits-all plan
-- Make a real impact outside of work by leading and/or contributing to global cryptocurrency communities 
+- Make a real impact outside of work by leading and/or contributing to global cryptocurrency communities
 - Provide product vision and leadership in making cryptos easier to use and trusted
 
-**You will bring... 
+**You will bring...
 
-**Experience**: 
+**Experience**:
 - Discover usability issues and initiate UX design solutions from research to prototypes to prove the concept
 - Communicate research findings, conceptual ideas, detailed design, and design rationale verbally and visually
 - Ability to create rapid, iterative, and low-fi prototypes
@@ -278,9 +296,9 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - Experience in usability testing, A/B testing, storytelling, and translating between business and technical jargon
 - Ability to relate, understand, grasp concepts, and interpret user needs
 
-**Bonus Skills**: 
+**Bonus Skills**:
 - A good theoretical and practical grasp of interaction design issues, the continually evolving vocabulary of interaction and UI design, and an ability to explain this simply to others
-- Quantitative research skills 
+- Quantitative research skills
 - Has experience with UX in an agile development environment
 - Active participant in the UX community
 - Investment experience or passionate at investment products
@@ -289,7 +307,7 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 
 ### PRODUCT
 
-#### Data Analyst 
+#### Data Analyst
 
 **Responsibilities**:
 
@@ -302,13 +320,13 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 
 - Bachelor's degree in Mathematic/Statistics or any related field or equivalent practical experience
 - In-depth understanding of data models, statistical analysis to predict users' behavior
-- Strong knowledge of Statistics tools 
+- Strong knowledge of Statistics tools
 
 **Desirable Requirements**:
 - Experience in the advertising industry
 - Strong written and verbal communication skills
 
-#### Payment Operation 
+#### Payment Operation
 
 **Responsibilities**:
 
@@ -326,7 +344,7 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - Strong analytical skills, detail-oriented
 - Passion & Knowledge of cryptocurrency and blockchain technologies is a must
 
-#### Product Intern 
+#### Product Intern
 
 **2-3 days/week, at least 6-month employment, senior students are welcome**
 
@@ -417,7 +435,7 @@ In our team, you’ll respond to customer requests via email and live chat. Many
 
 **Responsibilities**:
 
-- In-depth research and analysis of blockchain, cryptocurrency, and ICO (Initial Coin Offering) projects across the globe. 
+- In-depth research and analysis of blockchain, cryptocurrency, and ICO (Initial Coin Offering) projects across the globe.
 - Formulating and articulating detailed reports of investment views and recommendations
 - Compile competitive intelligence on industry trends, market dynamics, and business portfolio to support our strategies for Business Development team and key clients
 
@@ -433,7 +451,7 @@ In our team, you’ll respond to customer requests via email and live chat. Many
 
 **Responsibilities**:
 
-This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. 
+This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy.
 You’ll obligate to be in high demand of engaging with clients, including initiating solution, analyzing and designing business model, and providing programming(smart contract)support /business. You’ll continue to cultivate your insights across various industries with COBINHOOD.
 
 **Essential Requirements**:
@@ -452,8 +470,8 @@ You’ll obligate to be in high demand of engaging with clients, including initi
 
 **Responsibilities**:
 
-This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. 
-It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations. 
+This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion.
+It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations.
 You’ll continue to develop your views across various levels with COBINHOOD.
 
 **Essential Requirements**:
@@ -475,8 +493,8 @@ You’ll continue to develop your views across various levels with COBINHOOD.
 
 **Responsibilities**:
 
-This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion. 
-It would be a gateway of business approach for COBINHOOD to explore and to seek for business cooperation. You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals. 
+This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion.
+It would be a gateway of business approach for COBINHOOD to explore and to seek for business cooperation. You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals.
 You’ll continue to cultivate your insights across various industries with COBINHOOD.
 
 **Essential Requirements**:
@@ -515,32 +533,32 @@ Also improve COBINHOOD’s digital presence, make sure our digital channels cons
 - Prove experience building strong internal and external relationships
 - Ability to combine creative problem solving, consumer insights, and strategic thinking in a fluid environment
 
-#### Social Media Marketing Manager 
+#### Social Media Marketing Manager
 
 **Foreigners are welcome**
 
 **Responsibilities**：
 
-- Create and curate content for our blog, newsletter, website and social media channels. 
-- Monitor, record and analyze stakeholder sentiment and brand reputation 
-- Build and maintain strong relationships with media and key opinion leaders focused on the blockchain industry 
-- Pitch relevant news and stories to journalists 
-- Communicate with community stakeholders across a wide range of online channels such as subreddits, cryptocurrency forums, slack channels and chat groups 
-- Research relevant industry events and submit executives for participation as speakers/panelists 
-- Manage vendors from design/translation/marketing agencies 
+- Create and curate content for our blog, newsletter, website and social media channels.
+- Monitor, record and analyze stakeholder sentiment and brand reputation
+- Build and maintain strong relationships with media and key opinion leaders focused on the blockchain industry
+- Pitch relevant news and stories to journalists
+- Communicate with community stakeholders across a wide range of online channels such as subreddits, cryptocurrency forums, slack channels and chat groups
+- Research relevant industry events and submit executives for participation as speakers/panelists
+- Manage vendors from design/translation/marketing agencies
 - Drive internal communication activities and content
 
 **Essential Requirement**：
 
-- Excellent English writing and editing skills 
-- 2 years’ experience in marketing, public relations or journalism 
-- Detailed knowledge of the news media landscape and how PR works 
-- Familiarity with online marketing tools including Medium, MailChimp, Buffer, and Google Analytics 
-- Patient, proactive and mature personality 
-- Exceptional organizational and project management skills 
-- Confident working independently 
-- Enjoy working in an international team environment 
-- Great if you have an existing network of journalists and bloggers covering finance and technology 
+- Excellent English writing and editing skills
+- 2 years’ experience in marketing, public relations or journalism
+- Detailed knowledge of the news media landscape and how PR works
+- Familiarity with online marketing tools including Medium, MailChimp, Buffer, and Google Analytics
+- Patient, proactive and mature personality
+- Exceptional organizational and project management skills
+- Confident working independently
+- Enjoy working in an international team environment
+- Great if you have an existing network of journalists and bloggers covering finance and technology
 
 #### Marketing Campaign Manager
 
@@ -563,7 +581,7 @@ Lead and execute a successful go-to market strategy for COBINHOOD
 
 - Familiarity with marketing material management and design
 - Ability to multitask and perform under tight deadlines
-- Ability to work creatively 
+- Ability to work creatively
 
 #### Public Relationship Manager
 
@@ -573,7 +591,7 @@ To ensure and enhance public communications of COBINHOOD align with industry/reg
 
 **Essential Requirement**：
 
-- Experiences working in public relations including managing local, regional, national and publicity efforts. 
+- Experiences working in public relations including managing local, regional, national and publicity efforts.
 - A proven track record of managing successful PR campaigns
 - Strong knowledge and connections in various types of media
 - Excellent verbal and written communication in English and Mandarin
@@ -619,7 +637,7 @@ As the Receptionist in COBINHOOD, you will need to be a masterful problem-solver
 - 1 - 2 years of experience in administrative support or as a receptionist, or experience in air cabin crew/hotel receptionist
 - Must speak in English fluently
 - Proficient in Microsoft Excel, PowerPoint, Word and Google applications
-- Strong organizational and communication skills, team orientated philosophy, and problem solving skills 
+- Strong organizational and communication skills, team orientated philosophy, and problem solving skills
 - Someone who will keep his/her work area clean and organized
 - Friendly, calm and composed
 
