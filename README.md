@@ -57,21 +57,21 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 **Requirements**：
 
 - Ph.D./M.S. in computer science or relevant field
-- Understanding basic knowledge of following areas:
-	- distributed computing and system dependability
+- understanding basic knowledge of following areas: 
+        - distributed computing and system dependability
 	- algorithm and complexity analysis
 	- cryptography
 
-**Preferred Qualifications:**：
+**Nice to have**：
 
 - Proven research capabilities in the following research areas:
-	- Blockchain technology
-	- Distributed system
-	- Smart contract
+	- blockchain technology
+	- distributed system
+	- smart contract
 	- Programming language, compiler and VM
 	- Formal Verification
-	- Cryptography
-	- Consensus algorithm (e.g. BFT, PoW, PoS, total ordering, etc)
+	- cryptography
+	- consensus algorithm (e.g. BFT, PoW, PoS, total ordering, etc)
 - Excellent oral and clear thought
 - Excellent English ability
 - Passion to research and innovation, independent problem solver and good teamwork
@@ -246,30 +246,6 @@ This role will require the candidate to ensure that we are only shipping quality
 - Analytical and curios mindset with a problem-solving aptitude
 - Experience in QA, Agile framework or project management a huge plus
 
-#### Quality Intern
-
-**2-3 days/week, at least 6-month employment, senior students are welcome**
-
-You will work as a part of the team to ensure that our products/functions are awesome. You can gain quality testing skill with our world-class RD team.
-To succeed in this role, you possess a keen eye for detail and excellent communication skills.
-
-**Responsibilities**:
-
-- Work with cross-functional teams to ensure quality throughout the software development life cycle
-- Execute/Evaluate test cases and analyse test results
-- Preparing test reports for tracking and analysis
-- Troubleshoot issues
-
-**Essential Requirements**:
-
-- Senior year university/graduate student; CS/information major, economy major, business major is a plus.
-- Strong communication skills in Mandarin and English.
-- Logical, detail-oriented, and sensitive to numbers.
-- Excellent skills in analyzing.
-- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
-- Ability to troubleshoot and document errors
-- Analytical and curios mindset with a problem-solving aptitude
-
 ---
 
 ### DESIGN
@@ -343,25 +319,6 @@ Design awesome UX for Cobinhood Website and Apps. You’ll be responsible for th
 - 1+ years experience in Consumer Banking, Digital Banking background preferred
 - Strong analytical skills, detail-oriented
 - Passion & Knowledge of cryptocurrency and blockchain technologies is a must
-
-#### Product Intern
-
-**2-3 days/week, at least 6-month employment, senior students are welcome**
-
-Cobinhood is looking for young and motivated talents to join our fast growing product team. You will work with our world-class product development/ operation folks directly, together, we will reshape the world of internet with Blockchain technology and  Cryptocurrencies! Your major responsibilities are as followed:
-
-**Responsibilities**:
-
-- Collect & analysis our competitors, impact our strategies by deeply understand the world of crypto exchanges
-- Being the member & foundation of user interviews, compose interview outlines and analysis the outcomes
-- Gather and model metrics with real data through analytic platforms
-
-**Essential Requirements**:
-
-- Familiar with any of wireframe tools
-- Passionate with Cryptocurrencies, Blockchain technologies
-- You hold some cryptocurrencies, or you are one of the traders
-- You have a solid background, or great enthusiasm in Information technology or Financial related fields
 
 ---
 
