@@ -147,7 +147,7 @@ Given breaches are the number one cause of death among digital currency companie
 - Experience in Web UI/UX design (optional)
 - Passionate with new technologies
 
-#### Software Engineer - iOS
+#### Software Engineer - iOS Developer
 
 **Responsibilities**：
 
@@ -166,6 +166,26 @@ Given breaches are the number one cause of death among digital currency companie
 - Understanding of Apple’s design principles and interface guidelines
 - Proficient understanding of code versioning tools
 - Familiarity with continuous integration
+- A commitment to collaborative problem solving, sophisticated design, and the creation of quality products
+
+#### Software Engineer - Android Developer
+
+**Responsibilities**：
+
+- Design and build applications for the Android platform
+- Ensure the performance, quality, and responsiveness of applications
+- Collaborate with a team to define, design, and ship new features
+- Identify and correct bottlenecks and fix bugs
+- Help maintain code quality, organization, and automatization
+
+**Requirements**：
+
+- 2+ years of Android app experience
+- Proficient with Java. Kotlin will be a strong plus.
+- Familiar with RESTful APIs and WebSocket to connect to back-end services
+- Familiar with asynchronous programming, e.g. ReactiveX
+- Knowledge of other web technologies and Material design principles will also be a plus
+- Passionate with new technologies
 - A commitment to collaborative problem solving, sophisticated design, and the creation of quality products
 
 #### Site Reliability Engineer
