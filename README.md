@@ -360,22 +360,6 @@ You are the face of COBINHOOD and the first person many of our clients see. You 
 - Able to fluently write in English
 - Enjoys working closely with customers to ensure complete satisfaction
 
-#### KYC Part-timer
-
-**Senior students are welcome**
-
-The KYC specialist will be responsible for completing periodic Know-Your-Customer (KYC) reviews of existing clients in accordance with internal policies and regulatory requirements.
-
-**Responsibilities**:
-
-- Independent verification of information supplied
-- Review existing client data to ensure information is complete and accurate
-
-**Essential Requirements**:
-
-- Accuracy with excellent attention to detail
-- Enjoys working closely with customers to ensure complete satisfaction
-
 #### Customer Service Part-timer
 
 **Senior students are welcome**
@@ -389,20 +373,6 @@ You’ll also respond to general support, trading, and other questions or reques
 **Essential Requirements**:
 
 - Enjoys working closely with customers to ensure complete satisfaction
-
-#### Customer Support Associate
-
-**Senior students are welcome**
-
-**Responsibilities**:
-
-In our team, you’ll respond to customer requests via email and live chat. Many customers write in about issues related to COBINHOOD, and you will execute SOP to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty. You’ll also respond to general support, trading, and other questions or requests from customers. (You will receive orientation training on the boarding day.)
-
-**Essential Requirements**:
-
-- Enjoys working closely with customers to ensure complete satisfaction
-- Detail-oriented and good command of English in reading would be a plus
-- Remote work and flexible working hours (primarily 18:00-09:00, could be altered)
 
 ---
 
