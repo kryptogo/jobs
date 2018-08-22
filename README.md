@@ -135,15 +135,16 @@ Given breaches are the number one cause of death among digital currency companie
 **Responsibilities**：
 
 - Develop high quality website for COBINHOOD
+- Develop high quality web apps for COBINHOOD
+- Improve CI/CD workflow
+- Improve unit test coverage and build up E2E tests
 
 **Requirements**：
 
-- 2+ years of front end working experience
-- Solid knowledge on HTML5, CSS3, JavaScript (ES6+), and webpack
-- Familiar with React and Redux
 - Familiar with RESTful APIs and WebSocket
 - Experience in SVG, canvas graphics, and D3.js (optional)
 - Experience in reactive programming, RxJS (optional)
+- Experience in Web3.js and blockchain (optional)
 - Experience in Web UI/UX design (optional)
 - Passionate with new technologies
 
