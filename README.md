@@ -245,28 +245,6 @@ This role will require the candidate to ensure that we are only shipping quality
 - Experience with various test tools including Selenium, Appium, Postman, Jenkins
 - Familiar with scripting languages, i.e. Python
 
-#### Quality Assurance
-
-**Responsibilities**:
-
-- Execute test cases and analyse test results
-- Preparing test reports for tracking and analysis
-- Evaluate test cases and explore new use cases
-- Report bugs and improvements to development team
-- Troubleshoot issues
-- Conduct new feature and post-release testing
-- Work with cross-functional teams to ensure quality throughout the software development life cycle
-
-**Essential Requirements**:
-
-- Logical, detail-oriented, and sensitive to numbers
-- Strong communication skills in Mandarin and English
-- Excellent skills in analyzing
-- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
-- Ability to troubleshoot and document errors
-- Analytical and curios mindset with a problem-solving aptitude
-- Experience in QA, Agile framework or project management a huge plus
-
 ---
 
 ### PRODUCT
@@ -304,7 +282,7 @@ This role will require the candidate to ensure that we are only shipping quality
 
 **Essential Requirements**:
 
-- 1+ years experience in Consumer Banking, Digital Banking background preferred
+- 2+ years experience in Consumer Banking, Digital Banking background preferred
 - Strong analytical skills, detail-oriented
 - Passion & Knowledge of cryptocurrency and blockchain technologies is a must
 
@@ -326,60 +304,12 @@ You are the face of COBINHOOD and the first person many of our clients see. You 
 - Ability to focus and work with interruptions in an exciting and growing company
 - Ability to stay calm, organized, polite, and efficient under pressure with excellent manners
 - Able to fluently write in English
-- Enjoys working closely with customers to ensure complete satisfaction
-
-#### Customer Service Part-timer
-
-**Senior students are welcome**
-
-**Responsibilities**:
-
-In our team, you’ll respond to customer requests via email and live chat.
-Many customers write in about issues related to COBINHOOD, and you will execute SOP to answer users’ inquiries and questions to enhance user experience, satisfaction and loyalty.
-You’ll also respond to general support, trading, and other questions or requests from customers.
-
-**Essential Requirements**:
-
-- Enjoys working closely with customers to ensure complete satisfaction
+- Enjoys working closely with customers to ensure complete satisfaction	
 
 ---
 
 ### BUSINESS DEVELOPMENT
 
-#### Market Research/Business Analyst
-
-**Responsibilities**:
-
-- In-depth research and analysis of blockchain, cryptocurrency, and ICO (Initial Coin Offering) projects across the globe.
-- Formulating and articulating detailed reports of investment views and recommendations
-- Compile competitive intelligence on industry trends, market dynamics, and business portfolio to support our strategies for Business Development team and key clients
-
-**Essential Requirements**:
-
-- 2+ years of working experience as a researching role in venture capital or investment banking industry
-- Excellent skills in research and analysis
-- Strong insight in blockchain and cryptocurrencies
-- Strong communication skills in Mandarin and English
-- Logical, detail-oriented, and sensitive to numbers
-
-#### Technical Pre-Sales
-
-**Responsibilities**:
-
-This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion. It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy.
-You’ll obligate to be in high demand of engaging with clients, including initiating solution, analyzing and designing business model, and providing programming(smart contract)support /business. You’ll continue to cultivate your insights across various industries with COBINHOOD.
-
-**Essential Requirements**:
-
-- 2+ years experience in backend engineer position
-- Timely perceive up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
-- BS/MS background in Computer Science or relevant discipline
-
-**Desirable Requirements**:
-
-- Strong overall understanding of digital currencies/assets
-- Pragmatic knowledge of international payments
-- Deep insight into commodities/currencies or bitcoin
 
 #### Partnership Manager
 
@@ -516,24 +446,6 @@ To ensure and enhance public communications of COBINHOOD align with industry/reg
 
 ### OPERATION
 
-#### Human Resource Intern
-
-We are looking for an HR Intern to perform various administrative tasks and support our HR’s daily activities. You will be a key to build up our world-class team, meanwhile, you can gain hands-on experience in recruitment and talent administration.
-
-**2-3 days/week, at least 6-month employment, senior students are welcome**
-
-**Responsibilities**:
-
-- Explore more sourcing channels. Post, update and remove job ads from job boards, careers pages and social networks
-- Update our internal databases with candidate and new employee information
-- Assist with other administrative tasks as needed
-
-**Desirable Requirements**:
-
-- Senior student, have participated in various extracurricular activities
-- Personable, able to comfortably and pleasantly deal with a variety of people
-- Strong customer service skills
-- Problem solving capabilities necessary to accomplish the duties and tasks of the position
 
 #### Front Desk/ Receptionist
 
