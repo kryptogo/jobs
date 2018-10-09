@@ -11,6 +11,32 @@ Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.co
 
 ### ENGINEERING
 
+#### Technical Product Manager
+
+**Responsibilities**：
+
+- Work with product management, development and engineering teams to design products and determine requirements
+- Competitor research and analysis
+- Participate in the creation of new processes and tools as necessary to support the needs and requirements of a fast growing business
+- Incorporate requirements from external parties and assess impact on project timetables and deliverables
+- Balance business needs versus technical capabilities
+- Break down complex tasks into manageable pieces and prioritize to meet business objectives
+- Ensure status, issues, and risks are tracked and effectively communicated to both internal and external stakeholders
+        
+**Requirements**：
+        
+- Minimum of 3 years of experience working in a business analysis, data analysis, technical project management or related role
+- Prior software development experience preferred
+- Excellent communications skills to facilitate projects including internal and external clients
+- Knowledge of Bitcoin, Blockchain, or Cryptocurrencies a plus
+- Ability to work rapidly changing and evolving technologies
+- Working knowledge of trading or post-trading systems, payment systems, or financial processing system
+- Start-up working experience is a plus
+- FinTech experience is a big plus
+- Prior Bitcoin, blockchain, and/or cryptography experience is a big plus
+
+
+
 #### Software Engineer - Backend
 
 **Strong Fresh Graduate are Welcome**
