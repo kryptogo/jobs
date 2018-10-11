@@ -275,11 +275,31 @@ This role will require the candidate to ensure that we are only shipping quality
 
 ### PRODUCT
 
+#### Product Manager
+
+**Responsibilities**:
+
+- Contribute to the development of the overall product strategy, product roadmap and business plans
+- Act as a product evangelist to build awareness and understanding
+- Global Cryptocurrency research 
+- Identify needs through a combination of user research, collecting feedback from cross-functional teammates, diving into data, and competitive analysis
+- Collect and respond to user feedbacks on Google Play/App Store of our product
+
+**Essential Requirements**:
+
+- 3+ years of experience in PM role
+- BS or BA Degree/ Technical background preferred
+- Strong analytical skills
+- Excellent organizational and communication skills
+- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
+- Detail-oriented and able to work on multiple tasks autonomously
+- Passion & Knowledge of cryptocurrency and blockchain technologies is a must
+
 #### Data Analyst
 
 **Responsibilities**:
 
-- Plan and conduct large-scale experiments to test hypotheses and drive product development.
+- Plan and conduct large-scale experiments to test hypotheses and drive product development
 - Drive the creation of comprehensive datasets encompassing user profiles and behaviors, and incorporating a wide variety of signals and data types.
 - Competent to rapidly develop prototypes to prove out hypotheses with small dataset
 - Work closely with PM to sprint the verification with real data
@@ -387,6 +407,30 @@ You’ll continue to cultivate your insights across various industries with COBI
 
 ### MARKETING COMMUNICATIONS
 
+#### SEO Copywriter
+
+**Foreigners are welcome**
+
+We are in need of a Copywriting and SEO talent who can connect with our customer base through multiple channels. You’ll be responsible for managing post writing, product descriptions, and SEO activities such as content strategy, link building and keyword strategy to increase rankings on all major search networks. 
+
+We work in a fast-paced market that requires fast adjustment and quick turnarounds, so flexibility is critical in this position. We’re looking for an inventive storyteller and content creator to help bolster COBINHOOD brand and spread awareness to a fast-growing community. The ideal candidate will be comfortable working in a collaborative environment. We are focused on providing a best-in-class customer experience, and you’ll have a significant role in helping us achieve that goal.
+
+**Responsibilities**:
+
+- Write high-engagement content representing our brands/products
+- Ensure that all websites and internet properties under your influence have been technically optimized to attract and engage those visitors that closely match the agreed profile of the target audience
+- Interpret creative direction and adapt points from creative briefs into persuasive copy
+- Propose copy concepts and present underlying strategic thinking to business leaders
+
+**Requirement**:
+
+- Bachelor’s degree or equivalent in marketing or communications
+- 2+ years of experience as creative builder and maker of stories
+- To distill complex and difficult concepts into easy-to-understand, “on-your-side” communications. Put another way: You can easily “de-geek the speak”
+- Solid understanding of performance marketing, conversion, and online customer acquisition.
+- Up-to-date with the latest trends and best practices in SEO
+- Passionate with Cryptocurrencies, Blockchain technologies
+
 #### Digital Community Manager
 
 **Foreigners are welcome**
@@ -431,28 +475,30 @@ Also improve COBINHOOD’s digital presence, make sure our digital channels cons
 - Enjoy working in an international team environment
 - Great if you have an existing network of journalists and bloggers covering finance and technology
 
-#### Marketing Campaign Manager
+#### Growth Marketing
 
 **Responsibilities**：
 
-Lead and execute a successful go-to market strategy for COBINHOOD
+This role will be in charge of digital media planning and operating to boost COBINHOOD’s brand awareness all over the world.
 
-- Strategize COBINHOOD campaigns aligned with business goals
-- Create digital content for our brands (e.g. website, video, and graphics)
-- Manage end-to-end campaigns
-- Identify, launch, and drive high-priority marketing initiatives
-- Establish COBINHOOD's web presence
-- Stay up-to-date with digital media developments and trends
-- Familiarity with marketing material management and design
-- Understanding of SEO best practices and techniques is a plus
-- Additional qualifications or experience in basic design is a plus
-- Ability to work creatively and love getting involved with events
+- Leverage data to understand our products in depth, identify areas of opportunity, and execute projects to drive user growth, retention, engagement, and/or revenue of COBINHOOD products
+- Drive projects focusing on new user growth, mobile usage, website and product usage; Inform, influence, support, and execute our growth strategy
+- Work closely with product, engineering, design, and data teams
+- Collaborate with channel-specific marketing teammates (blogging, email, social media, etc.) to identify areas for growth
+- Test and optimize marketing tactics for customer acquisition (e.g. online advertising, direct mail, out of home, affiliate) and conversion rate optimization
+- Conduct and present competitive analysis and market researches
 
 **Essential Requirement**：
 
-- Familiarity with marketing material management and design
-- Ability to multitask and perform under tight deadlines
-- Ability to work creatively
+- 2 years experiences of online marketing/digital advertising
+- 2 years experiences of app / website optimisation
+- Being data-driven and kind of a data-geek: clear understanding of data, analytics, metrics and statistics
+- Familiar with social media landscape, and how to grow and engage the audience and performance on Facebook, Twitter, IG, YouTube etc, through content optimisation
+- Familiar with SEO and ASO
+- Hands on experience with web/App analytics and A/B testing tools 
+- Being social and understanding users’ behavior. Having great customer relations skills and being focus on customer experience
+- Communication skills and ability to manage a project or product
+- Ability to deal with ambiguity
 
 #### Public Relationship Manager
 
