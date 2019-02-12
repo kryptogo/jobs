@@ -11,31 +11,6 @@ Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.co
 
 ### ENGINEERING
 
-#### Technical Product Manager
-
-**Responsibilities**：
-
-- Work with product management, development and engineering teams to design products and determine requirements
-- Competitor research and analysis
-- Participate in the creation of new processes and tools as necessary to support the needs and requirements of a fast growing business
-- Incorporate requirements from external parties and assess impact on project timetables and deliverables
-- Balance business needs versus technical capabilities
-- Break down complex tasks into manageable pieces and prioritize to meet business objectives
-- Ensure status, issues, and risks are tracked and effectively communicated to both internal and external stakeholders
-        
-**Requirements**：
-        
-- Minimum of 3 years of experience working in a business analysis, data analysis, technical project management or related role
-- Prior software development experience preferred
-- Excellent communications skills to facilitate projects including internal and external clients
-- Knowledge of Bitcoin, Blockchain, or Cryptocurrencies a plus
-- Ability to work rapidly changing and evolving technologies
-- Working knowledge of trading or post-trading systems, payment systems, or financial processing system
-- Start-up working experience is a plus
-- FinTech experience is a big plus
-- Prior Bitcoin, blockchain, and/or cryptography experience is a big plus
-
-
 
 #### Software Engineer - Backend
 
@@ -102,59 +77,6 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 - Excellent English ability
 - Passion to research and innovation, independent problem solver and good teamwork
 
-#### Software Engineer - Security
-
-Given breaches are the number one cause of death among digital currency companies, security is core to our mission and has been a key competitive differentiator for us as we scale. If you crave a real adversary but find yourself responding to generic phishing and yet another piece of adware…we should talk.
-
-**Responsibilities**：
-
-- Build/deploy/maintain security controls, instrumentation, and detection infrastructure
-- Investigate security events, or better yet, automate the investigation and remediation of security events
-- Conduct in-depth research on attacker profiles and infrastructure to better predict and prevent future attacks
-
-**Requirements**：
-
-- Significant experience in incident detection, incident response, and forensics
-- Proficient in a modern high-level language (Go preferred)
-- Strong understanding of GCP services and architectures
-- Experience mitigating DDoS attacks
-- Experience with executing incident response in virtual and containerized environments
-- Experience conducting research on threat actors and their methodologies
-
-#### Software Engineer - Algo-Trading
-
-**Responsibilities**：
-
-- Develop and implement algorithmic trading systems
-- Develop machine learning algorithm to help us understand key industry trends in algo development
-
-**Requirements**：
-
-- Strong technical skills in Python
-- Familiar with Algorithm
-
-**Nice to have**：
-
-- Solid hands on experience in hedge funds
-- Familiar with modern machine learning method
-
-#### Software Engineer - Machine Learning
-
-**Responsibilities**：
-
-- Actively monitor and identify data disparities and suspicious activity early
-- Detect money laundering activities and prevent the adverse effects they create, including disciplinary action, substantial fines, and damage to a company’s reputation
-- File suspicious activity report by data from transaction history, KYC, CIP (customer identification program), PEP (politically exposed person), and AML (anti-money laundering)
-- Use AI-calculated credit rating to achieve customer segmentation and rank-ordering of AML alarms
-
-**Requirements**：
-
-- Takes initiative to identify & report problems and to drive resolution
-- Results oriented and has a high degree of accountability, commitment and responsibility
-- Extensive programming experience in Python
-- Experience with data-driven statistical or machine learning methods
-    - Strong preference for hands-on experience with TensorFlow or similar frameworks
-- Experience in querying complex schemas and relational databases
 
 #### Software Engineer - Frontend
 
@@ -247,29 +169,29 @@ Quality Team is looking for Product Testers to assess software quality through m
 To succeed in this role, you possess a keen eye for detail and excellent communication skills.
 Ultimately, you will work as a part of the team to ensure that we ship quality code and our products are awesome.
 
-#### Software Development Engineer in Test
+#### Quality Assurance
 
 **Responsibilities**:
 
 This role will require the candidate to ensure that we are only shipping quality code and providing statistical information for quality improvement through testing methodologies and sampling for the team.
 
-- Responsible for Web/App product testing, including manual and automation testing
-- Building automation test flow and framework
-- Developing UI and API automation testing
-- Co-working with Backend/Frontend team and QA
+- Execute test cases and analyse test results
+- Preparing test reports for tracking and analysis
+- Evaluate test cases and explore new use cases
+- Report bugs and improvements to development team
+- Troubleshoot issues
+- Conduct new feature and post-release testing
+- Work with cross-functional teams to ensure quality throughout the software development life cycle
 
 **Requirements**:
 
-- 2+ years of hands-on technical testing and automation testing experience
-- Experience in automation software development in testing and reporting
-- The ingenuity to think of new ways to test and break the product
-
-**Nice to Have**:
-
-- A strong practicing interest in the crypto space OR personal or professional experience investing and trading securities through online platforms
-- High level of comfort and experience with Git
-- Experience with various test tools including Selenium, Appium, Postman, Jenkins
-- Familiar with scripting languages, i.e. Python
+- CS/information major is a plus. 
+- Logical, detail-oriented, and sensitive to numbers. 
+- Excellent skills in analyzing. 
+- Ability to comprehensively understand data sources, elements and relationships in both business and technical terms
+- Ability to troubleshoot and document errors
+- Analytical and curios mindset with a problem-solving aptitude
+- Experience in QA, Agile framework or project management a huge plus
 
 ---
 
@@ -348,7 +270,34 @@ You’ll continue to cultivate your insights across various industries with COBI
 
 ---
 
-### MARKETING COMMUNICATIONS
+### MARKETING
+
+#### Product Marketing
+
+**Foreigners are welcome**
+
+We are in need of a Product Marketing who be equipped with capabilities of both technique and project management, collaborating with two apartments to ensure the product and technology in the blockchain field is developing and having an insight on the it. As the nature of industry changes significantly in short time, you have to keep pace on the newest trend and alteration of industry events. You will be working under marketing team to keep updating the latest trend but also keep track on the preference of target audience, so being keen, detail oriented, and flexible is critical for success in this position. We are looking for a candidate who does have great insights and business thoughts in blockchain or Internet application to boost our brand awareness all over the world. The ideal candidate will be comfortable working in a collaborative environment and care for the outcome. 
+
+**Responsibilities**:
+
+- Develop overall marketing strategies and tactics and drive qualified traffic to the front door;
+- Define and implement a comprehensive go-to-market strategic direction and plans, identifying key messages and tactics to support the launch of new product feature initiatives and drive the highest impact marketing; manage the cross-functional implementation of the plan;
+- Build marketing programs to support specific marketing objectives across different channels and segments in support of our overall strategic marketing plan;
+- Collaborate with Channel Marketing team members to deliver successful messaging;
+- Measure and report performance of marketing campaigns, gain insight, and assess against goals;
+- Work closely with Product and Engineering Team to identify needs and sharpen product offerings based on feedback from customers and competitive positioning;
+- Build strategic relationships and partnerships with key industry players, agencies and vendors.
+
+**Requirement**:
+
+- Bachelor’s degree or equivalent in marketing;
+- More than 5 years of experience working in software/internet/fin-tech companies as marketing manager role;
+- Passion for blockchain technology;
+- Experienced working with cross-functional teams;
+- Knowledge of conducting go-to-market strategy;
+- Project management skills with a proven track record of successful product launches;
+- Ability to operate and communicate in a fast paced environment and to work on multiple projects simultaneously in a dynamic and constantly evolving context.
+
 
 #### SEO Copywriter
 
@@ -373,23 +322,6 @@ We work in a fast-paced market that requires fast adjustment and quick turnaroun
 - Solid understanding of performance marketing, conversion, and online customer acquisition.
 - Up-to-date with the latest trends and best practices in SEO
 - Passionate with Cryptocurrencies, Blockchain technologies
-
-#### Digital Community Manager
-
-**Foreigners are welcome**
-
-This role will lead and develop COBINHOOD’s digital communications strategy, and ensure that we make effective use of a range of digital platforms/channels to support the aim.
-Also improve COBINHOOD’s digital presence, make sure our digital channels consistently spark interest and reach a range of audiences.
-
-**Requirement**：
-
-- 2-3 years experience in digital marketing, with strong preference to search marketing and/or other forms of performance marketing efforts
-- Be knowledgeable in all matters regarding digital communication, including marketing management/ latest technical developments
-- Familiar with content management systems/ social media platforms(Telegram, YouTube, Medium, Twitter, Facebook...etc)
-- Experience in promoting positive online engagement and developing digital assets
-- Strong communication skills, both verbal and written with innovative ideas to inspire audiences loyalty
-- Prove experience building strong internal and external relationships
-- Ability to combine creative problem solving, consumer insights, and strategic thinking in a fluid environment
 
 #### Growth Marketing
 
