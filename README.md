@@ -1,16 +1,14 @@
 # JOIN US
 
-COBINHOOD is the next-generation cryptocurrency service platform, our vision is to shape future economies by creating a crypto financial center for the blockchain era.
+As the bellwether firm of advanced blockchain technology and consulting service, KryptoGo provides the essence of blockchain infrastructure, including crypto assets exchange, centralized and decentralized wallet and consortium blockchain solutions, and professional customization service to help clients from every industry establish a holistic blockchain solution for decentralized application (DApp), employing blockchain technology to real business.
+ 
+KryptoGo has strong resources of suppliers and buyers in blockchain industry and professionals from prestigious universities ripe in blockchain experience, standing as a solid, one-stop technology provider with both resources and experience.
 
-COBINHOOD is a place for dreamers and doers.
-We are looking for top-notch talents worldwide, you’ll work on the bleeding edge of blockchain technology, including Bitcoin, Ethereum, and other cryptocurrencies; playing as a leading force in taking today’s economies into the future. Join us to work on the edge and help create more opportunity and innovation in this new era.
-
-Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.com)
+Welcome to submit your CV to [hr@kryptogo.app](mailto:careers@kryptogo.app)
 
 ---
 
 ### ENGINEERING
-
 
 #### Software Engineer - Backend
 
@@ -20,7 +18,7 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 
 **Responsibilities**：
 
-- Develop COBINHOOD exchange services, including RESTful API and web socket
+- Develop KryptoGO services, including RESTful API and web socket
 - Integrate a variety of Blockchain technologies
 - Design and implement distributed backend micro services to achieve high availability and scalability
 - Develop high performance trading engine
@@ -38,52 +36,12 @@ Develop high-quality, high-concurrency, high-availability, high-scalability API 
 - Familiar with Linux System
 - Knowledge of Blockchain/ Bitcoin/ Ethereum/ Crypto/ Cryptocurrency
 
-#### Blockchain Researcher
-
-**Both MS-Ph.D candidate and Experienced researcher are Welcome**
-
-**Responsibilities**：
-
-- The work of the blockchain researcher will involve the dissemination, internally and externally, of the results of such activities through publications, patents, seminars, and representing COBINHOOD at professional meetings, in professional organizations and universities.
-- Provide technical planning and support for initial blockchain product development.
-
-**Research Areas**：
-
-- Blockchain and consensus algorithm
-- P2P networking
-- Cryptography
-- Programming language, compiler and VM
-- Formal Verification
-
-**Requirements**：
-
-- Ph.D./M.S. in computer science or relevant field
-- understanding basic knowledge of following areas: 
-        - distributed computing and system dependability
-	- algorithm and complexity analysis
-	- cryptography
-
-**Nice to have**：
-
-- Proven research capabilities in the following research areas:
-	- blockchain technology
-	- distributed system
-	- smart contract
-	- Programming language, compiler and VM
-	- Formal Verification
-	- cryptography
-	- consensus algorithm (e.g. BFT, PoW, PoS, total ordering, etc)
-- Excellent oral and clear thought
-- Excellent English ability
-- Passion to research and innovation, independent problem solver and good teamwork
-
-
 #### Software Engineer - Frontend
 
 **Responsibilities**：
 
-- Develop high quality website for COBINHOOD
-- Develop high quality web apps for COBINHOOD
+- Develop high quality website for KryptoGO
+- Develop high quality web apps for KryptoGO
 - Improve CI/CD workflow
 - Improve unit test coverage and build up E2E tests
 
@@ -226,9 +184,9 @@ This role will require the candidate to ensure that we are only shipping quality
 
 **Responsibilities**:
 
-This role is crucial for COBINHOOD to maintain business growth with the ambition of rapid expansion.
-It would be a strategic liaison for COBINHOOD to operate with peripheral institutes and ecosystem partners for corporate strategy. You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations.
-You’ll continue to develop your views across various levels with COBINHOOD.
+This role is crucial for KryptoGO to maintain business growth with the ambition of rapid expansion.
+It would be a strategic liaison for KryptoGO to operate with peripheral institutes and ecosystem partners for corporate strategy. You’ll obligate to be in high demand of connecting with strategic partners to establish and maintain business operations.
+You’ll continue to develop your views across various levels with KryptoGO.
 
 **Essential Requirements**:
 
@@ -244,29 +202,6 @@ You’ll continue to develop your views across various levels with COBINHOOD.
 - Deep insight into commodities/currencies or bitcoin
 - Familiar with Psychology is a plus
 - Outstanding experience of public sector is a plus
-
-#### Engagement Manager
-
-**Responsibilities**:
-
-This role is crucial for COBINHOOD to drive business growth with the ambition of rapid expansion.
-It would be a gateway of business approach for COBINHOOD to explore and to seek for business cooperation. You’ll obligate to be in high demand of engaging with clients, analyzing and designing business model, and closing deals.
-You’ll continue to cultivate your insights across various industries with COBINHOOD.
-
-**Essential Requirements**:
-
-- 2+ years experience in engaging with various business partners in different industries
-- Timely perceive and understand up-to-date knowledge, product and service offerings of cryptocurrency and blockchain
-- To deliver excellent presentation, analysis, international communication and travels
-- To conduct quick survey of industry; analyze and design business model
-
-**Desirable Requirements**:
-
-- Strong understanding of digital currencies/assets
-- Pragmatic knowledge of international payments
-- Deep insight into commodities/currencies or bitcoin
-- Familiar with Psychology is a plus
-- Outstanding experience of business consulting is a plus
 
 ---
 
@@ -298,38 +233,13 @@ We are in need of a Product Marketing who be equipped with capabilities of both 
 - Project management skills with a proven track record of successful product launches;
 - Ability to operate and communicate in a fast paced environment and to work on multiple projects simultaneously in a dynamic and constantly evolving context.
 
-
-#### SEO Copywriter
-
-**Foreigners are welcome**
-
-We are in need of a Copywriting and SEO talent who can connect with our customer base through multiple channels. You’ll be responsible for managing post writing, product descriptions, and SEO activities such as content strategy, link building and keyword strategy to increase rankings on all major search networks. 
-
-We work in a fast-paced market that requires fast adjustment and quick turnarounds, so flexibility is critical in this position. We’re looking for an inventive storyteller and content creator to help bolster COBINHOOD brand and spread awareness to a fast-growing community. The ideal candidate will be comfortable working in a collaborative environment. We are focused on providing a best-in-class customer experience, and you’ll have a significant role in helping us achieve that goal.
-
-**Responsibilities**:
-
-- Write high-engagement content representing our brands/products
-- Ensure that all websites and internet properties under your influence have been technically optimized to attract and engage those visitors that closely match the agreed profile of the target audience
-- Interpret creative direction and adapt points from creative briefs into persuasive copy
-- Propose copy concepts and present underlying strategic thinking to business leaders
-
-**Requirement**:
-
-- Bachelor’s degree or equivalent in marketing or communications
-- 2+ years of experience as creative builder and maker of stories
-- To distill complex and difficult concepts into easy-to-understand, “on-your-side” communications. Put another way: You can easily “de-geek the speak”
-- Solid understanding of performance marketing, conversion, and online customer acquisition.
-- Up-to-date with the latest trends and best practices in SEO
-- Passionate with Cryptocurrencies, Blockchain technologies
-
 #### Growth Marketing
 
 **Responsibilities**：
 
-This role will be in charge of digital media planning and operating to boost COBINHOOD’s brand awareness all over the world.
+This role will be in charge of digital media planning and operating to boost KryptoGO’s brand awareness all over the world.
 
-- Leverage data to understand our products in depth, identify areas of opportunity, and execute projects to drive user growth, retention, engagement, and/or revenue of COBINHOOD products
+- Leverage data to understand our products in depth, identify areas of opportunity, and execute projects to drive user growth, retention, engagement, and/or revenue of KryptoGO products
 - Drive projects focusing on new user growth, mobile usage, website and product usage; Inform, influence, support, and execute our growth strategy
 - Work closely with product, engineering, design, and data teams
 - Collaborate with channel-specific marketing teammates (blogging, email, social media, etc.) to identify areas for growth
@@ -348,7 +258,6 @@ This role will be in charge of digital media planning and operating to boost COB
 - Communication skills and ability to manage a project or product
 - Ability to deal with ambiguity
 
-
 ---
 
-Welcome to submit your CV to [careers@cobinhood.com](mailto:careers@cobinhood.com)
+Welcome to submit your CV to [hr@kryptogo.app](mailto:hr@kryptogo.app)
