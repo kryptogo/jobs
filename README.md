@@ -12,30 +12,54 @@ Welcome to submit your CV to [hr@kryptogo.app](mailto:careers@kryptogo.app)
 
 #### Software Engineer - Backend
 
-**Strong Fresh Graduates are Welcome**
-
-Develop high-quality, high-concurrency, high-availability, high-scalability API backend with distributed micro-services.
-
 **Responsibilities**：
 
+- Develop high-quality, high-concurrency, high-availability, high-scalability API backend with distributed micro-services.
 - Develop KryptoGO services, including RESTful API and web socket.
-- Integrate a variety of Blockchain technologies.
-- Design and implement distributed backend micro services to achieve high-availability and scalability.
-- Develop high-performance trading engine.
+- Design and build a data platform to store, process, and query petabytes of data.
+- Build integrations with various public and private data sources, including various blockchains.
+- Develop a deep understanding of blockchain technology in order to inform data architecture.
+- Design and operation of high performance distributed systems.
 
 **Requirements**：
 
-- 2+ years backend experiences.
-- Design RESTful APIs.
+- 3+ years backend experiences.
+- Experience in Golang, Java, C/C++, Python or other equivalent languages.
+- SQL related experience.
 - Knowledge in protocols (TCP/IP/HTTP/HTTPS).
-- Golang, C/C++ or Python programming skills.
-- SQL related experiences.
+- Ability to write high quality production code.
 
 **Nice to have**：
 
-- Familiar with Linux System.
-- Knowledge of Blockchain/ Bitcoin/ Ethereum/ Crypto/ Cryptocurrencies.
+- Knowledge of Blockchain/ Bitcoin/ Ethereum/ Crypto/ Cryptocurrency.
+- Good understanding of a broad spectrum of traditional RDBMS, NoSQL, and graph data stores including PostGres, MongoDB, Redis, and Neo4j.
+- Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, Storm, etc.
+- Experience with big data open source technologies like MapReduce, Spark, Flink, HBase and Hive.
 
+#### Software Engineer - Machine Learning
+
+**Responsibilities**：
+
+- Design and implement models to cluster token holders to enable more intelligent user segmentation.
+- Identify suspicious transactions to help our customers reduce legal risk.
+- Determine high-potential user segments to help our customers grow faster.
+- Collaborate with backend engineers to productionize machine learning models.
+- Develop a deep understanding of blockchain technology to inform model design.
+- Stay current with blockchain analytics trends to inform product direction.
+- Write technical blog articles to showcase our machine learning work to a broader audience.
+
+**Requirements**：
+
+- 3+ years of industry experience or a PhD.
+- Strong engineering skills. Ability to write high quality production code. Experience in Java, Python and other equivalent languages is a plus.
+- Good understanding of common families of models, feature engineering, feature selection, and other practical machine learning topics such as overfitting.
+- Experience using open source machine learning frameworks such as Scikit-Learn, H2O, Kera, TensorFlow.
+
+**Nice to have**：
+
+- Knowledge of Blockchain/ Bitcoin/ Ethereum/ Crypto/ Cryptocurrency.
+- Experience with big data open source technologies like MapReduce, Spark, Flink, HBase and Hive.
+ 
 #### Software Engineer - Frontend
 
 **Responsibilities**：
