@@ -283,5 +283,39 @@ This role will be in charge of digital media planning and operations. The candid
 - Ability to deal with ambiguity.
 
 ---
+ 
+### OPERATION
+#### Executive Assistant
 
-Welcome to submit your CV to [hr@kryptogo.app](mailto:hr@kryptogo.app)
+(Foreigners are welcome) We are looking for a suitable CEO Executive Assistant who is equipped with great people management, cross-department communication, and project management skills. The candidate will collaborate with all departments to ensure the company operation is operating smoothly and problem solve related blocking issues. As the nature of the industry and business changes significantly and rapidly, the candidate must keep pace with the CEO, and foresee upcoming trends and alteration of industry and business events and demands. The candidate will work with the CEO to shadow him and to execute or deliberate corporate strategies. Being keen, detail oriented, highly flexible, and taking the initiative in overseeing the overall operation is critical for success in this position. We are looking for a candidate who has great structural and management skills, and someone who has previous experiences in the blockchain, RegTech, or FinTech industry are preferred to accelerate our business growth. The ideal candidate will have strong soft skills, be both result and people oriented, and comfortable working in a collaborative environment with multiple roles at times. Besides the general administration work, the candidate will also be responsible and trusted to handle company sensitive information.
+
+Responsibilities:
+
+- Acting as the point of contact between the CEO, stakeholders, internal colleagues, and external business partners
+- Deliberating and assisting with fundraising strategies and relevant activities
+- Overseeing and managing the operation system, and looking for ways to improve the current systems or procedures
+- Attending public relations and professional events on behalf of the CEO and establish personal networks to build strong relationships with important prospects (investors, partners, clients, and vendors)
+- Maintaining professional and technical knowledge by attending educational workshops, and reviewing professional publications
+- Routing corresponding information and delegating tasks
+- Conducting project researches, planning, reports, and presentations
+- Taking a concurrent position as marketing specialist framing brand identity and increasing exposure to the targeted audiences
+- Taking a concurrent position as HR to hire, train and develop individual employees and conduct team building
+- Develop overall marketing strategies and tactics and drive qualified traffic to the front door
+- Monitoring and reporting to the CEO on financial statements and monthly cashflow
+
+Requirements:
+
+- Bachelor’s degree in Business Administration is preferred
+- More than 3 years of experience as an Executive Assistant, Personal Assistant, Project Manager, or a similar role
+- Has experience in the software/internet/RegTech/FinTech industry 
+- Passion for blockchain technology and RegTech 
+- Ability to take on multiple roles and dynamic projects simultaneously and to prioritize tasks 
+- Has the ability to communicate report clearly and efficiently with logic
+- Can be both detail oriented and big picture thinking
+- Experienced working with cross-functional teams
+- Project management skills with a proven track record of successful product or project launches
+- Familiarity with office gadgets and applications is a bonus
+
+---
+
+Welcome to submit your CV to [hr@kryptogo.app](mailto:hr@kryptogo.com)
